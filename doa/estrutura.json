@@ -1,0 +1,92 @@
+{
+    "NomeProjeto": {
+        "Autores": {
+            "NomeAutor": {
+                "Arquivos": {
+                    "NomeArquivo": {
+                        "Variabilidades": [],
+                        "Commits": []
+                    }
+                },
+                "Commits": {
+                    "IdCommit": {
+                        "Variabilidades": [],
+                        "Arquivos": []
+                    }
+                },
+                "Variabilidades": {
+                    "NomeVariabilidade": {
+                        "Arquivos": [],
+                        "Commits": []
+                    }
+                }
+            }
+        },
+        "Variabilidades": {
+            "NomeVariabilidade": {
+                "Arquivos": {
+                    "NomeArquivo": {
+                        "Autores": [],
+                        "Commits": []
+                    }
+                },
+                "Commits": {
+                    "IdCommit": {
+                        "Autores": [],
+                        "Arquivos": []
+                    }
+                },
+                "Autores": {
+                    "NomeAutor": {
+                        "Arquivos": [],
+                        "Commits": []
+                    }
+                }
+            }
+        },
+        "Arquivos": {
+            "NomeArquivo": {
+                "Autor": {
+                    "NomeAutor": {
+                        "Variabilidades": [],
+                        "Commits": []
+                    }
+                },
+                "Commits": {
+                    "IdCommit": {
+                        "Variabilidades": [],
+                        "Autores": []
+                    }
+                },
+                "Variabilidades": {
+                    "NomeVariabilidade": {
+                        "Autores": [],
+                        "Commits": []
+                    }
+                }
+            }
+        },
+        "Commits": {
+            "IdCommit": {
+                "Arquivos": {
+                    "NomeArquivo": {
+                        "Autores": [],
+                        "Variabilidades": []
+                    }
+                },
+                "Variabilidades": {
+                    "NomeVariabilidade": {
+                        "Autores": [],
+                        "Arquivos": []
+                    }
+                },
+                "Autores": {
+                    "NomeAutor": {
+                        "Variabilidades": [],
+                        "Arquivos": []
+                    }
+                }
+            }
+        }
+    }
+}

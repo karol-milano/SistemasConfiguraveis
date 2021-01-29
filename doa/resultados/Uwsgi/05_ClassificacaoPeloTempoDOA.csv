@@ -1,0 +1,182 @@
+"Data","Desenvolvedor","Classificacao","Especialista","Generalista","Misto","Total"
+"2009-04-01","Roberto@Sirius","Misto",0,0,1,1
+"2009-05-01","Roberto@Sirius","Misto",0,0,1,1
+"2009-08-01","Roberto@Localhost.Localdomain","Generalista",0,1,1,2
+"2009-09-01","Roberto@Localhost.Localdomain","Generalista",0,1,1,2
+"2009-11-01","Roberto@Localhost.Localdomain","Generalista",0,1,1,2
+"2009-11-01","Roberto@Sirius","Misto",0,0,2,2
+"2009-12-01","Roberto@Localhost.Localdomain","Misto",0,0,2,2
+"2009-12-01","Roberto@Sirius","Misto",0,0,2,2
+"2010-01-01","Roberto@Sirius","Misto",0,0,2,2
+"2010-02-01","Roberto@Sirius","Misto",0,0,2,2
+"2010-03-01","Roberto@Fierobecco","Misto",0,0,3,3
+"2010-03-01","Roberto@Sirius","Misto",0,1,4,5
+"2010-03-01","Roberto@Sirius.Local","Generalista",0,1,4,5
+"2010-03-01","Roberto@Unbit","Misto",0,1,4,5
+"2010-04-01","Roberto@Sirius","Misto",0,1,4,5
+"2010-04-01","Roberto@Solaris","Generalista",0,2,4,6
+"2010-05-01","Roberto@Sirius","Misto",0,2,4,6
+"2010-06-01","Roberto@Silente","Generalista",0,3,4,7
+"2010-06-01","Roberto@Sirius","Misto",0,3,4,7
+"2010-07-01","Roberto@Sirius","Misto",0,3,4,7
+"2010-08-01","Roberto@Sirius","Misto",0,3,4,7
+"2010-08-01","Roberto@Ubuntu64","Misto",0,4,6,10
+"2010-08-01","Roberto@Voldermort","Generalista",0,4,6,10
+"2010-09-01","Roberto@Fiorenzo","Misto",0,4,6,10
+"2010-09-01","Roberto@Sirius","Misto",0,4,6,10
+"2010-10-01","Roberto@Sirius","Misto",0,4,6,10
+"2010-11-01","Roberto","Generalista",0,5,6,11
+"2010-11-01","Roberto@Debian32","Generalista",0,7,6,13
+"2010-11-01","Roberto@Fiorenzo","Misto",0,7,6,13
+"2010-11-01","Roberto@Mrspurr","Generalista",0,7,6,13
+"2010-11-01","Roberto@Sirius","Misto",0,7,6,13
+"2010-12-01","Roberto@Sirius","Misto",0,7,6,13
+"2011-01-01","Roberto@Debian32","Generalista",0,7,6,13
+"2011-01-01","Roberto@Maverick64","Generalista",0,8,6,14
+"2011-01-01","Roberto@Sirius","Misto",0,8,6,14
+"2011-02-01","Roberto@Fiorenzo","Misto",0,8,6,14
+"2011-02-01","Roberto@Goyle","Generalista",0,8,8,16
+"2011-02-01","Roberto@Maverick64","Misto",0,8,8,16
+"2011-02-01","Roberto@Sirius","Misto",0,8,8,16
+"2011-03-01","Roberto@Dj2","Misto",0,8,8,16
+"2011-03-01","Roberto@Maverick64","Misto",0,9,8,17
+"2011-03-01","Roberto@Natty32","Generalista",0,9,8,17
+"2011-03-01","Roberto@Sirius","Misto",0,9,8,17
+"2011-04-01","Roberto@Debian32","Generalista",0,9,8,17
+"2011-04-01","Roberto@Maverick64","Misto",0,7,11,18
+"2011-04-01","Roberto@Natty32","Misto",0,7,11,18
+"2011-04-01","Roberto@Sirius","Misto",0,7,11,18
+"2011-04-01","Roberto@Solarisexpress","Misto",0,7,11,18
+"2011-05-01","Roberto@Debian32","Misto",0,7,11,18
+"2011-05-01","Roberto@Fedora15","Generalista",0,8,11,19
+"2011-05-01","Roberto@Natty32","Misto",0,8,11,19
+"2011-05-01","Roberto@Sirius","Misto",0,8,11,19
+"2011-06-01","Roberto@Debian32","Misto",0,8,11,19
+"2011-07-01","Roberto@Debian32","Misto",0,8,11,19
+"2011-07-01","Roberto@Natty32","Misto",0,8,11,19
+"2011-07-01","Roberto@Sirius","Misto",0,8,11,19
+"2011-08-01","Roberto@Debian32","Misto",0,8,11,19
+"2011-08-01","Roberto@Sirius","Misto",0,8,11,19
+"2011-09-01","Roberto@Debian32","Misto",0,8,11,19
+"2011-10-01","Roberto@Debian32","Misto",0,8,11,19
+"2011-11-01","Roberto@Debian32","Misto",0,8,11,19
+"2011-11-01","Roberto@Goyle","Generalista",0,8,12,20
+"2011-11-01","Roberto@Oneiric64","Generalista",0,8,12,20
+"2011-11-01","Roberto@Sirius","Misto",0,8,12,20
+"2011-12-01","Roberto@Oneiric64","Misto",0,8,12,20
+"2012-01-01","Roberto@Oneiric64","Misto",0,8,12,20
+"2012-02-01","Roberto@Goyle","Misto",0,7,13,20
+"2012-02-01","Roberto@Oneiric64","Misto",0,7,14,21
+"2012-02-01","Roberto@Precise64","Misto",0,7,14,21
+"2012-02-01","Roberto@Sirius","Misto",0,7,14,21
+"2012-03-01","Roberto@Goyle","Misto",0,7,14,21
+"2012-03-01","Roberto@Icarus","Generalista",1,8,15,24
+"2012-03-01","Roberto@Openbsd50","Especialista",1,8,15,24
+"2012-03-01","Roberto@Openindiana","Misto",1,8,15,24
+"2012-03-01","Roberto@Precise64","Misto",1,8,15,24
+"2012-04-01","Roberto@Precise64","Misto",1,8,15,24
+"2012-04-01","Roberto@Sirius","Misto",1,8,15,24
+"2012-05-01","Roberto@Precise64","Misto",1,8,15,24
+"2012-05-01","Roberto@Sirius","Misto",1,8,16,25
+"2012-06-01","Roberto@Quantal64","Misto",1,8,16,25
+"2012-07-01","Roberto@Quantal64","Misto",1,8,16,25
+"2012-08-01","Roberto@Quantal64","Misto",1,8,16,25
+"2012-09-01","Roberto@Arch","Generalista",1,9,16,26
+"2012-09-01","Roberto@Quantal64","Misto",1,9,17,27
+"2012-10-01","Colin Ligertwood","Misto",1,9,17,27
+"2012-10-01","Colinlbc","Misto",1,10,20,31
+"2012-10-01","Lukasz Mierzwa","Generalista",1,10,20,31
+"2012-10-01","Roberto De Ioris","Misto",1,10,20,31
+"2012-10-01","Unbit","Misto",1,10,20,31
+"2012-11-01","Roberto De Ioris","Misto",1,10,20,31
+"2012-11-01","Unbit","Misto",1,10,20,31
+"2012-12-01","Lukasz Mierzwa","Generalista",1,10,20,31
+"2012-12-01","Roberto De Ioris","Misto",1,10,20,31
+"2012-12-01","Unbit","Misto",1,10,20,31
+"2013-01-01","Lukasz Mierzwa","Generalista",1,10,20,31
+"2013-01-01","Roberto De Ioris","Misto",1,10,20,31
+"2013-01-01","Unbit","Misto",1,10,20,31
+"2013-02-01","Lukasz Mierzwa","Generalista",1,10,20,31
+"2013-02-01","Unbit","Misto",1,10,20,31
+"2013-03-01","Lukasz Mierzwa","Generalista",1,10,20,31
+"2013-03-01","Riccardo Magliocchetti","Generalista",1,10,21,32
+"2013-03-01","Unbit","Misto",1,10,21,32
+"2013-04-01","Lukasz Mierzwa","Misto",1,10,21,32
+"2013-04-01","Unbit","Misto",1,10,21,32
+"2013-05-01","Lukasz Mierzwa","Misto",1,10,21,32
+"2013-05-01","Unbit","Misto",1,10,21,32
+"2013-06-01","Lukasz Mierzwa","Misto",1,10,21,32
+"2013-06-01","Unbit","Misto",1,11,21,33
+"2013-07-01","Guido Berhoerster","Generalista",1,11,21,33
+"2013-07-01","Unbit","Misto",1,11,21,33
+"2013-08-01","Unbit","Misto",1,11,21,33
+"2013-09-01","Lukasz Mierzwa","Misto",1,11,21,33
+"2013-09-01","Unbit","Misto",1,11,21,33
+"2013-10-01","Lukasz Mierzwa","Misto",1,11,21,33
+"2013-10-01","Riccardo Magliocchetti","Generalista",1,11,21,33
+"2013-10-01","Unbit","Misto",1,11,21,33
+"2013-11-01","Lukasz Mierzwa","Misto",1,11,21,33
+"2013-11-01","Riccardo Magliocchetti","Generalista",1,11,21,33
+"2013-11-01","Unbit","Misto",1,11,21,33
+"2013-12-01","Lukasz Mierzwa","Misto",1,11,21,33
+"2013-12-01","Riccardo Magliocchetti","Generalista",1,11,21,33
+"2013-12-01","Unbit","Misto",1,11,21,33
+"2014-01-01","Unbit","Misto",1,11,21,33
+"2014-02-01","Unbit","Misto",1,11,21,33
+"2014-03-01","Roberto De Ioris","Misto",1,11,21,33
+"2014-03-01","Unbit","Misto",1,11,22,34
+"2014-04-01","Getcwd","Misto",1,11,22,34
+"2014-04-01","Unbit","Misto",1,11,22,34
+"2014-05-01","Roberto De Ioris","Misto",1,11,22,34
+"2014-05-01","Unbit","Misto",1,12,22,35
+"2014-06-01","Marko Tiikkaja","Generalista",1,12,22,35
+"2014-06-01","Unbit","Misto",1,12,22,35
+"2014-07-01","Unbit","Misto",1,12,22,35
+"2014-08-01","Mike Kaplinskiy","Generalista",1,13,22,36
+"2014-08-01","Unbit","Misto",1,13,22,36
+"2014-09-01","Unbit","Misto",1,13,22,36
+"2014-10-01","Unbit","Misto",1,13,22,36
+"2014-11-01","Unbit","Misto",1,13,22,36
+"2014-12-01","Unbit","Misto",1,13,22,36
+"2015-01-01","Riccardo Magliocchetti","Generalista",1,13,22,36
+"2015-01-01","Unbit","Misto",1,14,22,37
+"2015-02-01","Curtis Maloney","Generalista",1,14,22,37
+"2015-02-01","Unbit","Misto",1,14,22,37
+"2015-03-01","Unbit","Misto",1,14,22,37
+"2015-04-01","Curtis Maloney","Generalista",1,14,22,37
+"2015-04-01","Unbit","Misto",1,14,22,37
+"2015-05-01","Riccardo Magliocchetti","Generalista",1,14,22,37
+"2015-05-01","Unbit","Misto",1,15,22,38
+"2015-06-01","Hleran","Generalista",1,15,22,38
+"2015-06-01","Unbit","Misto",1,15,22,38
+"2015-07-01","Hleran","Generalista",1,15,22,38
+"2015-07-01","Unbit","Misto",1,14,23,38
+"2015-08-01","Hleran","Misto",1,14,23,38
+"2015-08-01","Unbit","Misto",1,14,23,38
+"2015-09-01","Hleran","Misto",1,14,23,38
+"2015-09-01","Unbit","Misto",1,14,23,38
+"2015-10-01","Unbit","Misto",1,14,23,38
+"2015-11-01","Hleran","Misto",1,14,23,38
+"2015-11-01","Unbit","Misto",1,14,23,38
+"2015-12-01","Hleran","Misto",1,14,23,38
+"2015-12-01","Unbit","Misto",1,14,23,38
+"2016-01-01","Hleran","Misto",1,14,23,38
+"2016-02-01","Unbit","Misto",1,14,23,38
+"2016-04-01","Hleran","Misto",1,14,23,38
+"2016-05-01","Unbit","Misto",1,14,23,38
+"2016-07-01","Felicity Tarnell","Misto",1,14,24,39
+"2016-07-01","Unbit","Misto",1,14,24,39
+"2016-08-01","Unbit","Misto",1,14,24,39
+"2016-09-01","Unbit","Misto",1,14,24,39
+"2016-11-01","Unbit","Misto",1,14,24,39
+"2017-02-01","Unbit","Misto",1,14,24,39
+"2017-03-01","Unbit","Misto",1,14,24,39
+"2017-09-01","Unbit","Misto",1,14,24,39
+"2017-11-01","Unbit","Misto",1,14,24,39
+"2018-02-01","Paul J Stevens","Generalista",1,15,24,40
+"2018-02-01","Unbit","Misto",1,15,24,40
+"2018-03-01","Unbit","Misto",1,15,24,40
+"2018-06-01","Unbit","Misto",1,15,24,40
+"2018-07-01","Unbit","Misto",1,15,24,40
+"2018-08-01","Unbit","Misto",1,15,24,40
+"2019-03-01","Unbit","Misto",1,15,24,40

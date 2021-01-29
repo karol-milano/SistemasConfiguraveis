@@ -1,0 +1,209 @@
+"Variabilidades","Data","EhAutor","Desenvolvedor"
+"","1997-11-01","Autor",1
+"","1997-12-01","Autor",1
+"","1998-01-01","Autor",1
+"","1998-02-01","Autor",1
+"","1998-03-01","Autor",1
+"","1998-04-01","Autor",1
+"","1998-05-01","Autor",1
+"","1998-06-01","Autor",1
+"","1998-08-01","Autor",1
+"","1998-09-01","Autor",1
+"","1998-10-01","Autor",1
+"","1998-11-01","Autor",1
+"","1998-12-01","Autor",1
+"","1999-01-01","Autor",1
+"","1999-03-01","Autor",1
+"","1999-04-01","Autor",1
+"","1999-05-01","Autor",1
+"","1999-06-01","Autor",1
+"","1999-07-01","Autor",1
+"","1999-09-01","Autor",1
+"","1999-10-01","Autor",1
+"","2000-04-01","Autor",1
+"","2000-05-01","Autor",1
+"","2000-09-01","Autor",1
+"","2001-03-01","Colaborador",1
+"","2001-07-01","Colaborador",1
+"","2002-04-01","Colaborador",1
+"","2002-05-01","Colaborador",1
+"","2002-07-01","Colaborador",1
+"","2002-08-01","Colaborador",1
+"","2003-09-01","Autor",1
+"","2003-10-01","Colaborador",1
+"","2004-04-01","Autor",1
+"","2004-04-01","Colaborador",1
+"","2004-07-01","Autor",1
+"","2005-01-01","Autor",1
+"","2005-12-01","Autor",1
+"","2006-03-01","Autor",1
+"","2006-04-01","Autor",1
+"","2006-07-01","Autor",1
+"","2007-06-01","Autor",1
+"","2009-01-01","Autor",1
+"","2009-02-01","Autor",1
+"","2009-08-01","Autor",1
+"","2016-03-01","Colaborador",1
+"","2016-05-01","Colaborador",1
+"","2016-06-01","Colaborador",1
+"","2016-07-01","Colaborador",1
+"","2017-01-01","Colaborador",1
+"","2017-02-01","Colaborador",1
+"","2017-03-01","Colaborador",1
+"","2017-04-01","Autor",1
+"","2017-04-01","Colaborador",2
+"","2017-05-01","Colaborador",2
+"","2017-06-01","Colaborador",2
+"","2017-07-01","Autor",1
+"","2017-07-01","Colaborador",2
+"","2017-08-01","Autor",1
+"","2017-08-01","Colaborador",2
+"","2017-09-01","Autor",1
+"","2017-09-01","Colaborador",1
+"","2017-10-01","Colaborador",1
+"","2017-12-01","Colaborador",1
+"","2018-07-01","Colaborador",1
+"","2018-08-01","Colaborador",1
+"","2018-10-01","Colaborador",1
+"","2019-06-01","Colaborador",1
+"","2019-07-01","Colaborador",1
+"","2019-08-01","Colaborador",1
+"","2019-09-01","Colaborador",1
+"","2019-10-01","Colaborador",1
+"","2020-05-01","Colaborador",1
+"","2020-07-01","Colaborador",1
+"","2020-10-01","Colaborador",1
+"__BEOS__","2016-06-01","Colaborador",1
+"__CloudABI__","2017-05-01","Colaborador",1
+"__LINUX__","2017-05-01","Colaborador",1
+"__USE_INLINE__","2009-01-01","Autor",1
+"__USE_INLINE__","2009-08-01","Autor",1
+"__WATCOMC__","2017-05-01","Colaborador",1
+"_DEBUG","1998-02-01","Autor",1
+"_DEBUG","1998-11-01","Autor",1
+"_MSC_VER","1997-11-01","Autor",1
+"_MSC_VER","1997-12-01","Autor",1
+"_MSC_VER","1998-02-01","Autor",1
+"_MSC_VER","1998-11-01","Autor",1
+"_O_BINARY","1997-11-01","Autor",1
+"_O_BINARY","1997-12-01","Autor",1
+"_O_BINARY","1998-02-01","Autor",1
+"_O_BINARY","1998-11-01","Autor",1
+"_O_BINARY","2017-09-01","Colaborador",1
+"_POSIX_SOURCE","1998-04-01","Autor",1
+"_POSIX_SOURCE","1998-11-01","Autor",1
+"_WIN32","2017-05-01","Colaborador",1
+"! (_WIN32)","2017-07-01","Colaborador",1
+"! (_WIN32) && (XML_DEV_URANDOM)","2017-07-01","Colaborador",1
+"! (HAVE_ARC4RANDOM_BUF) && ! (HAVE_ARC4RANDOM)","2017-07-01","Colaborador",1
+"! (HAVE_ARC4RANDOM_BUF) && ! (HAVE_ARC4RANDOM)","2017-10-01","Colaborador",1
+"! (XML_UNICODE)","2017-08-01","Colaborador",1
+"! (XML_UNICODE) || (XML_UNICODE_WCHAR_T)","2017-08-01","Colaborador",1
+"!(_GNU_SOURCE)","2017-07-01","Colaborador",1
+"!(_WIN32) && !(_WIN64)","2017-05-01","Colaborador",1
+"!(HAVE_GETRANDOM) && !(HAVE_SYSCALL_GETRANDOM) \","2017-07-01","Colaborador",1
+"!(LOAD_LIBRARY_SEARCH_SYSTEM32)","2017-07-01","Autor",1
+"!(LOAD_WITH_ALTERED_SEARCH_PATH)","2017-07-01","Autor",1
+"!(WIN32) && !(_WIN32) && !(_WIN64)","2017-05-01","Colaborador",1
+"!defined(_WIN32_WINNT) || !defined(_WIN32_WINNT_WIN2K) || \","2017-07-01","Autor",1
+"(__amigaos__) && (__USE_INLINE__)","2017-06-01","Colaborador",1
+"(__UINTPTR_TYPE__)","2017-03-01","Colaborador",1
+"(__UINTPTR_TYPE__)","2017-05-01","Colaborador",1
+"(_MSC_VER)","2017-05-01","Colaborador",1
+"(_MSC_VER)","2017-08-01","Colaborador",1
+"(_WIN32)","2017-05-01","Colaborador",1
+"(_WIN32)","2017-07-01","Autor",1
+"(_WIN32) && !(LOAD_LIBRARY_SEARCH_SYSTEM32)","2017-07-01","Colaborador",1
+"(_WIN32) && (_MSC_VER) && (_MSC_VER < 1600)","2020-03-01","Colaborador",1
+"(_WIN32) && (_MSC_VER) && (_MSC_VER < 1600)","2020-10-01","Colaborador",1
+"((_MSC_VER) || ((__WATCOMC__) && !(__LINUX__)))","2017-05-01","Colaborador",1
+"((WIN32) || (__WATCOMC__))","2017-05-01","Colaborador",1
+"(CURL_WINDOWS_APP)","2017-07-01","Autor",1
+"(HAVE_ARC4RANDOM_BUF)","2017-07-01","Colaborador",1
+"(HAVE_ARC4RANDOM_BUF) && (HAVE_LIBBSD)","2017-05-01","Colaborador",1
+"(HAVE_ARC4RANDOM_BUF) && (HAVE_LIBBSD)","2017-07-01","Colaborador",1
+"(HAVE_ARC4RANDOM_BUF) || (__CloudABI__)","2017-05-01","Colaborador",1
+"(HAVE_ARC4RANDOM_BUF) || (__CloudABI__)","2017-07-01","Colaborador",1
+"(HAVE_ARC4RANDOM)","2017-07-01","Colaborador",1
+"(HAVE_GETRANDOM)","2017-05-01","Colaborador",1
+"(HAVE_GETRANDOM) || (HAVE_SYSCALL_GETRANDOM)","2017-05-01","Colaborador",1
+"(HAVE_GETRANDOM) || (HAVE_SYSCALL_GETRANDOM)","2017-07-01","Colaborador",1
+"(HAVE_LIBBSD) \","2017-07-01","Colaborador",1
+"(NDEBUG)","2017-07-01","Colaborador",1
+"(USE_WINDOWS_SSPI) || (!(CURL_DISABLE_TELNET) && \","2017-07-01","Autor",1
+"(WIN32)","2017-05-01","Colaborador",1
+"(WIN32)","2017-07-01","Autor",1
+"(XML_USE_MSC_EXTENSIONS) && _MSC_VER < 1400","2017-08-01","Colaborador",1
+"BYTE_ORDER == 21","1998-05-01","Autor",1
+"BYTE_ORDER == 21","1998-08-01","Autor",1
+"BYTE_ORDER == 21","1998-11-01","Autor",1
+"BYTE_ORDER == 21","1999-03-01","Autor",1
+"COMPILED_FROM_DSP","2016-03-01","Colaborador",1
+"COMPILING_FOR_WINDOWS","2016-03-01","Colaborador",1
+"COMPILING_FOR_WINDOWS","2016-06-01","Colaborador",1
+"DEBUG_UNPARSED_ENTITIES","1998-06-01","Autor",1
+"defined(__amigaos__)","2017-06-01","Colaborador",1
+"defined(__WATCOMC__)","2017-05-01","Colaborador",1
+"defined(_WIN64) && defined(_MSC_VER)","2017-03-01","Colaborador",1
+"defined(_WIN64) && defined(_MSC_VER)","2017-05-01","Colaborador",1
+"defined(HAVE_ARC4RANDOM)","2017-07-01","Colaborador",1
+"defined(HAVE_GETRANDOM)","2017-05-01","Colaborador",1
+"defined(HAVE_GETRANDOM) || defined(HAVE_SYSCALL_GETRANDOM)","2017-05-01","Colaborador",1
+"defined(MACOS_CLASSIC)","2017-06-01","Colaborador",1
+"ENCODING_FOR_FUZZING","2019-08-01","Autor",1
+"FILEMAP","1997-11-01","Autor",1
+"HAVE_CHECK_H","2003-10-01","Autor",1
+"HAVE_EXPAT_CONFIG_H","2003-10-01","Colaborador",1
+"HAVE_EXPAT_CONFIG_H","2017-08-01","Autor",1
+"IS_INVALID_CHAR","1998-02-01","Autor",1
+"MAP_FILE","1998-03-01","Autor",1
+"MIN_BYTES_PER_CHAR","1998-01-01","Autor",1
+"O_BINARY","1997-11-01","Autor",1
+"O_BINARY","1997-12-01","Autor",1
+"O_BINARY","1998-02-01","Autor",1
+"O_BINARY","1998-11-01","Autor",1
+"PREFIX","1997-11-01","Autor",1
+"S_IFMT","1997-11-01","Autor",1
+"S_IFMT","2017-09-01","Colaborador",1
+"S_IFREG","1997-11-01","Autor",1
+"S_IFREG","2017-09-01","Colaborador",1
+"S_ISREG","1997-11-01","Autor",1
+"TEST","1998-12-01","Autor",1
+"UNICODE","1997-11-01","Autor",1
+"UNICODE","2017-07-01","Autor",1
+"W3C14N","1999-07-01","Autor",1
+"WIN32","1998-02-01","Autor",1
+"WIN32","1998-05-01","Autor",1
+"WIN32","1998-06-01","Autor",1
+"WIN32","1998-11-01","Autor",1
+"WIN32","2000-05-01","Autor",1
+"WIN32","2016-06-01","Colaborador",1
+"WIN32","2017-05-01","Colaborador",1
+"XML_BYTE_ORDER == 21","1999-03-01","Autor",1
+"XML_DTD","1999-06-01","Autor",1
+"XML_DTD","1999-10-01","Autor",1
+"XML_DTD","2017-09-01","Colaborador",1
+"XML_DTD /* FIXME */","1999-06-01","Autor",1
+"XML_DTD /* FIXME merge code with following case */","1999-06-01","Autor",1
+"XML_LARGE_SIZE","2006-01-01","Autor",1
+"XML_MIN_SIZE","1998-11-01","Autor",1
+"XML_NS","1998-11-01","Autor",1
+"XML_NS","1999-06-01","Autor",1
+"XML_NS","1999-10-01","Autor",1
+"XML_UNICODE","1998-05-01","Autor",1
+"XML_UNICODE","1998-06-01","Autor",1
+"XML_UNICODE","1998-11-01","Autor",1
+"XML_UNICODE","1999-10-01","Autor",1
+"XML_UNICODE","2000-01-01","Autor",1
+"XML_UNICODE","2017-06-01","Colaborador",1
+"XML_UNICODE","2017-08-01","Colaborador",1
+"XML_UNICODE","2017-09-01","Colaborador",1
+"XML_UNICODE_WCHAR_T","1998-06-01","Autor",1
+"XML_UNICODE_WCHAR_T","1998-11-01","Autor",1
+"XML_UNICODE_WCHAR_T","1999-10-01","Autor",1
+"XML_UNICODE_WCHAR_T","2000-01-01","Autor",1
+"XML_UNICODE_WCHAR_T","2017-08-01","Autor",1
+"XML_UNICODE_WCHAR_T","2017-08-01","Colaborador",1
+"XMLNS","1998-08-01","Autor",1
+"XMLNS","1998-11-01","Autor",1
+"XMLSMALL","1998-11-01","Autor",1

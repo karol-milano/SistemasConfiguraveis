@@ -1,0 +1,567 @@
+"Variabilidades","Data","EhAutor","Desenvolvedor"
+"","2000-02-01","Autor",1
+"","2000-11-01","Colaborador",1
+"","2000-12-01","Colaborador",1
+"","2001-04-01","Colaborador",1
+"","2001-08-01","Autor",1
+"","2001-08-01","Colaborador",1
+"","2001-09-01","Autor",1
+"","2001-09-01","Colaborador",1
+"","2001-10-01","Colaborador",1
+"","2002-05-01","Autor",1
+"","2002-05-01","Colaborador",1
+"","2003-05-01","Colaborador",1
+"","2003-06-01","Autor",1
+"","2003-06-01","Colaborador",1
+"","2003-07-01","Autor",1
+"","2003-07-01","Colaborador",1
+"","2003-08-01","Autor",1
+"","2003-08-01","Colaborador",1
+"","2003-09-01","Autor",1
+"","2003-09-01","Colaborador",1
+"","2003-10-01","Autor",1
+"","2003-10-01","Colaborador",1
+"","2003-11-01","Autor",1
+"","2003-11-01","Colaborador",1
+"","2003-12-01","Colaborador",1
+"","2004-06-01","Autor",1
+"","2004-06-01","Colaborador",1
+"","2004-07-01","Colaborador",1
+"","2004-09-01","Autor",1
+"","2004-09-01","Colaborador",1
+"","2005-05-01","Autor",1
+"","2005-05-01","Colaborador",1
+"","2005-10-01","Colaborador",1
+"","2006-06-01","Colaborador",1
+"","2006-07-01","Autor",1
+"","2006-07-01","Colaborador",2
+"","2006-08-01","Colaborador",1
+"","2006-09-01","Colaborador",1
+"","2006-10-01","Colaborador",1
+"","2006-11-01","Colaborador",1
+"","2006-12-01","Colaborador",1
+"","2007-01-01","Colaborador",1
+"","2007-02-01","Colaborador",1
+"","2007-03-01","Colaborador",1
+"","2007-04-01","Colaborador",2
+"","2007-05-01","Colaborador",1
+"","2007-07-01","Colaborador",1
+"","2007-08-01","Colaborador",1
+"","2007-09-01","Colaborador",2
+"","2007-10-01","Colaborador",1
+"","2007-11-01","Colaborador",1
+"","2007-12-01","Colaborador",1
+"","2008-01-01","Colaborador",1
+"","2008-02-01","Colaborador",1
+"","2008-03-01","Colaborador",1
+"","2008-04-01","Colaborador",1
+"","2008-05-01","Colaborador",2
+"","2008-06-01","Colaborador",1
+"","2008-07-01","Colaborador",1
+"","2008-08-01","Colaborador",1
+"","2008-09-01","Colaborador",1
+"","2008-12-01","Colaborador",1
+"","2009-01-01","Colaborador",1
+"","2009-02-01","Colaborador",1
+"","2009-03-01","Colaborador",1
+"","2009-06-01","Colaborador",1
+"","2009-08-01","Colaborador",1
+"","2009-11-01","Colaborador",1
+"","2009-12-01","Colaborador",1
+"","2010-01-01","Colaborador",1
+"","2010-06-01","Colaborador",1
+"","2010-08-01","Colaborador",1
+"","2010-12-01","Colaborador",1
+"","2013-09-01","Autor",1
+"","2013-09-01","Colaborador",1
+"","2014-11-01","Autor",1
+"","2014-11-01","Colaborador",1
+"","2014-12-01","Colaborador",1
+"","2017-01-01","Colaborador",1
+"_","2000-02-01","Autor",1
+"_","2000-11-01","Colaborador",1
+"_","2003-08-01","Colaborador",1
+"_","2003-09-01","Colaborador",1
+"_","2004-09-01","Colaborador",1
+"__BEOS__","2000-02-01","Autor",1
+"__BEOS__","2000-11-01","Colaborador",1
+"__BEOS__","2004-06-01","Colaborador",1
+"__BIG_ENDIAN__","2003-05-01","Colaborador",1
+"__BIG_ENDIAN__","2004-06-01","Colaborador",1
+"__GNU_LIBRARY__","2000-02-01","Autor",1
+"__GNU_LIBRARY__","2000-11-01","Colaborador",1
+"__GNU_LIBRARY__","2003-09-01","Colaborador",1
+"__GNU_LIBRARY__","2004-06-01","Colaborador",1
+"__GNU_LIBRARY__","2004-09-01","Colaborador",1
+"__GNU_LIBRARY__ ||  HAVE_STDLIB_H","2000-02-01","Autor",1
+"__GNU_LIBRARY__ ||  HAVE_STDLIB_H","2003-08-01","Colaborador",1
+"__GNUC__","2000-02-01","Autor",1
+"__GNUC__","2000-11-01","Colaborador",1
+"__GNUC__","2003-09-01","Colaborador",1
+"__GNUC__","2004-09-01","Colaborador",1
+"__ppc__","2003-05-01","Colaborador",1
+"__ppc__","2004-06-01","Colaborador",1
+"__set_errno","2000-11-01","Colaborador",1
+"__set_errno","2004-09-01","Colaborador",1
+"__STDC__","2000-11-01","Colaborador",1
+"__STDC__","2003-09-01","Colaborador",1
+"__STDC__ && __STDC__","2000-02-01","Autor",1
+"__STDC__ && __STDC__","2003-09-01","Colaborador",1
+"__ultrix &&  __vax","2010-01-01","Colaborador",1
+"__va_copy","2003-10-01","Autor",1
+"__va_copy","2004-09-01","Autor",1
+"__va_copy","2004-09-01","Colaborador",1
+"__WINDOWS__","2000-11-01","Colaborador",1
+"__WINDOWS__","2003-05-01","Colaborador",1
+"__WINDOWS__","2003-11-01","Colaborador",1
+"_AIX /* Already did AIX, up at the top.  */","2000-02-01","Autor",1
+"_AIX && ! REGEX_MALLOC","2000-02-01","Autor",1
+"_AIX && ! REGEX_MALLOC","2004-09-01","Colaborador",1
+"_LIBC","2000-02-01","Autor",1
+"_LIBC","2000-11-01","Colaborador",1
+"_LIBC","2003-07-01","Colaborador",1
+"_LIBC","2003-09-01","Autor",1
+"_LIBC","2003-09-01","Colaborador",1
+"_LIBC","2003-11-01","Colaborador",1
+"_LIBC","2004-06-01","Colaborador",1
+"_LIBC","2004-09-01","Autor",1
+"_LIBC","2004-09-01","Colaborador",1
+"_LIBC &&  __libc_ptf_call","2003-10-01","Autor",1
+"_LIBC &&  __libc_ptf_call","2003-10-01","Colaborador",1
+"_LIBC &&  __libc_ptf_call","2004-09-01","Colaborador",1
+"_LIBC &&  USE_IN_LIBIO","2000-02-01","Autor",1
+"_LIBC &&  USE_IN_LIBIO","2003-08-01","Colaborador",1
+"_LIBC &&  USE_IN_LIBIO","2003-09-01","Colaborador",1
+"_LIBC &&  USE_IN_LIBIO","2004-09-01","Colaborador",1
+"_LIBC &&  USE_NONOPTION_FLAGS","2003-09-01","Colaborador",1
+"_LIBC &&  USE_NONOPTION_FLAGS","2004-09-01","Colaborador",1
+"_LIBC ||  HAVE_WCHAR_H","2000-11-01","Colaborador",1
+"_LIBC ||  HAVE_WCHAR_H","2004-09-01","Colaborador",1
+"_LIBC || WIDE_CHAR_SUPPORT","2000-02-01","Autor",1
+"_LIBC || WIDE_CHAR_SUPPORT","2003-09-01","Colaborador",1
+"_MSC_VER  && ! WIN32","2000-02-01","Autor",1
+"_MSC_VER  && ! WIN32","2003-09-01","Colaborador",1
+"_NO_PROTO","2000-02-01","Autor",1
+"_NO_PROTO","2000-11-01","Colaborador",1
+"_NO_PROTO","2004-09-01","Colaborador",1
+"_REGEX_RE_COMP","2000-02-01","Autor",1
+"_REGEX_RE_COMP ||  _LIBC","2000-02-01","Autor",1
+"_REGEX_RE_COMP ||  _LIBC","2004-09-01","Colaborador",1
+"_tolower","2000-02-01","Autor",1
+"_tolower","2003-09-01","Colaborador",1
+"_WIN32","2000-02-01","Autor",1
+"_WIN32","2000-11-01","Colaborador",1
+"_WIN32","2007-01-01","Colaborador",1
+"! __STDC__ || !__STDC__","2000-02-01","Autor",1
+"! __STDC__ || !__STDC__","2003-09-01","Colaborador",1
+"! _LIBC &&  __GLIBC__ && __GLIBC__ >= 2","2000-02-01","Autor",1
+"! _LIBC &&  __GLIBC__ && __GLIBC__ >= 2","2004-09-01","Colaborador",1
+"! _LIBC &&  __GNU_LIBRARY__ && __GNU_LIBRARY__ > 1","2003-08-01","Colaborador",1
+"! _LIBC &&  __GNU_LIBRARY__ && __GNU_LIBRARY__ > 1","2004-09-01","Colaborador",1
+"! (__GNUC__) || __GNUC__ < 2","2000-02-01","Autor",1
+"! (__GNUC__) || __GNUC__ < 2","2000-11-01","Colaborador",1
+"! (__GNUC__) || __GNUC__ < 2","2003-10-01","Autor",1
+"! (__GNUC__) || __GNUC__ < 2","2003-10-01","Colaborador",1
+"! (__GNUC__) || __GNUC__ < 2","2004-09-01","Colaborador",1
+"! (__STDC__) || !__STDC__","2000-11-01","Colaborador",1
+"! (_LIBC) &&  (__GNU_LIBRARY__) && __GNU_LIBRARY__ > 1","2000-02-01","Autor",1
+"! (_LIBC) &&  (__GNU_LIBRARY__) && __GNU_LIBRARY__ > 1","2003-08-01","Colaborador",1
+"! (( __STDC__ && __STDC__) ||  PROTOTYPES)","2000-11-01","Colaborador",1
+"! (( __STDC__ && __STDC__) ||  PROTOTYPES)","2003-07-01","Colaborador",1
+"! (emacs) && ! (SYNTAX_TABLE)","2000-02-01","Autor",1
+"! emacs && ! SYNTAX_TABLE","2000-02-01","Autor",1
+"! emacs && ! SYNTAX_TABLE","2004-09-01","Colaborador",1
+"!(__APPLE_CC__) && !(__MWERKS__) && !(__private_extern__)","2003-11-01","Colaborador",1
+"!(__APPLE_CC__) && !(__MWERKS__) && !(__private_extern__)","2004-06-01","Colaborador",1
+"!defined(__WINDOWS__)","2003-11-01","Colaborador",1
+"!defined(__WINDOWS__)","2004-06-01","Colaborador",1
+"( __STDC__ && __STDC__) ||  PROTOTYPES","2000-11-01","Colaborador",1
+"( __STDC__ && __STDC__) ||  PROTOTYPES","2003-07-01","Colaborador",1
+"( (C_ALLOCA) ||  (REGEX_MALLOC)) && ( (emacs) ||  (REL_ALLOC))","2000-02-01","Autor",1
+"( C_ALLOCA ||  REGEX_MALLOC) &&  emacs","2000-02-01","Autor",1
+"( C_ALLOCA ||  REGEX_MALLOC) &&  emacs","2003-09-01","Colaborador",1
+"(__STDC__) && __STDC__","2000-02-01","Autor",1
+"(__STDC__) && __STDC__","2000-11-01","Colaborador",1
+"(__STDC__) && __STDC__","2003-06-01","Autor",1
+"(__STDC__) && __STDC__","2003-06-01","Colaborador",1
+"(__STDC__) && __STDC__","2003-08-01","Colaborador",1
+"(__STDC__) && __STDC__","2003-09-01","Autor",1
+"(__STDC__) && __STDC__","2003-09-01","Colaborador",1
+"(__STDC__) ||  (PROTOTYPES)","2003-09-01","Colaborador",1
+"(__STDC__) ||  (PROTOTYPES)","2003-10-01","Autor",1
+"(__STDC__) ||  (PROTOTYPES)","2003-10-01","Colaborador",1
+"(__ultrix) && (__vax)","2000-11-01","Colaborador",1
+"(__ultrix) && (__vax)","2010-01-01","Colaborador",1
+"(__WINDOWS__) || (__CYGWIN__)","2003-11-01","Colaborador",1
+"(__WINDOWS__) || (__CYGWIN__)","2004-06-01","Colaborador",1
+"(_AIX) && ! (REGEX_MALLOC)","2000-02-01","Autor",1
+"(_LIBC) || ! (__GNU_LIBRARY__)","2000-02-01","Autor",1
+"(_LIBC) || ! (__GNU_LIBRARY__)","2000-11-01","Colaborador",1
+"(CRAY) &&  (CRAY_STACKSEG_END)","2000-02-01","Autor",1
+"(CRAY) &&  (CRAY_STACKSEG_END)","2000-11-01","Colaborador",1
+"(HAVE_CLOSEDIR) && (HAVE_OPENDIR) && (HAVE_READDIR) && (HAVE_DIRENT_H)","2003-11-01","Colaborador",1
+"(HAVE_CLOSEDIR) && (HAVE_OPENDIR) && (HAVE_READDIR) && (HAVE_DIRENT_H)","2004-06-01","Colaborador",1
+"(REGEX_MALLOC)","2000-02-01","Autor",1
+"(SIZEOF_LONG_LONG_INT) && SIZEOF_LONG_LONG_INT > 0","2000-11-01","Colaborador",1
+"(SIZEOF_LONG_LONG_INT) && SIZEOF_LONG_LONG_INT > 0","2001-09-01","Colaborador",1
+"(SIZEOF_LONG_LONG_INT) && SIZEOF_LONG_LONG_INT > 0","2007-05-01","Colaborador",1
+"(STDC_HEADERS) || (! (isascii) && ! (HAVE_ISASCII))","2000-02-01","Autor",1
+"(STDC_HEADERS) || (HAVE_STRING_H)","2000-02-01","Autor",1
+"(STDC_HEADERS) || (HAVE_STRING_H)","2003-09-01","Colaborador",1
+"(VA_START) && __STDC__","2000-02-01","Autor",1
+"(WITH_GMP)","2001-08-01","Colaborador",1
+"(WITH_GMP) || (ENABLE_CHANGEWORD)","2000-11-01","Colaborador",1
+"(WITH_GMP) || (ENABLE_CHANGEWORD)","2001-08-01","Colaborador",1
+"(WITH_MODULES) || (WITH_GMP) || (ENABLE_CHANGEWORD)","2000-11-01","Colaborador",1
+"ALIGN_SIZE","2000-02-01","Autor",1
+"ALIGN_SIZE","2000-11-01","Colaborador",1
+"alloca","2000-02-01","Autor",1
+"alloca","2000-11-01","Colaborador",1
+"attribute_hidden","2003-09-01","Colaborador",1
+"attribute_hidden","2004-09-01","Colaborador",1
+"bcmp","2000-02-01","Autor",1
+"bcopy","2000-02-01","Autor",1
+"BIND_RESTRICTED","2000-02-01","Autor",1
+"BIND_RESTRICTED","2004-06-01","Colaborador",1
+"BYTE","2003-09-01","Colaborador",1
+"BYTE","2004-09-01","Colaborador",1
+"bzero","2000-02-01","Autor",1
+"C_ALLOCA","2000-02-01","Autor",1
+"const","2000-02-01","Autor",1
+"const","2000-11-01","Colaborador",1
+"const","2003-09-01","Colaborador",1
+"COPYING_UNIT","2000-02-01","Autor",1
+"COPYING_UNIT","2003-08-01","Colaborador",1
+"CRAY_STACK","2000-02-01","Autor",1
+"CRAY_STACK","2000-11-01","Colaborador",1
+"CRAY2","2000-02-01","Autor",1
+"CRAY2","2000-11-01","Colaborador",1
+"DEBUG","2000-02-01","Autor",1
+"DEBUG","2003-09-01","Colaborador",1
+"DEBUG","2004-09-01","Colaborador",1
+"DEBUG_I00AFUNC","2000-02-01","Autor",1
+"DEBUG_I00AFUNC","2000-11-01","Colaborador",1
+"DEBUG_INCL","2000-02-01","Autor",1
+"DEBUG_INCL","2008-05-01","Colaborador",1
+"DEBUG_INPUT","2000-02-01","Autor",1
+"DEBUG_INPUT","2000-11-01","Colaborador",1
+"DEBUG_INPUT","2006-09-01","Colaborador",1
+"DEBUG_INPUT","2006-10-01","Colaborador",1
+"DEBUG_INPUT","2008-02-01","Colaborador",1
+"DEBUG_INPUT","2008-03-01","Colaborador",1
+"DEBUG_INPUT","2008-05-01","Colaborador",1
+"DEBUG_MACRO","2007-12-01","Colaborador",1
+"DEBUG_MODULES","2000-02-01","Autor",1
+"DEBUG_MODULES","2000-11-01","Colaborador",1
+"DEBUG_MODULES","2001-08-01","Colaborador",1
+"DEBUG_MODULES","2001-09-01","Colaborador",1
+"DEBUG_MODULES","2003-06-01","Colaborador",1
+"DEBUG_MODULES","2003-08-01","Colaborador",1
+"DEBUG_MODULES","2006-08-01","Colaborador",1
+"DEBUG_MODULES","2006-09-01","Colaborador",1
+"DEBUG_MODULES","2007-09-01","Colaborador",1
+"DEBUG_MODULES","2013-09-01","Colaborador",1
+"DEBUG_OUTPUT","2000-02-01","Autor",1
+"DEBUG_OUTPUT","2007-05-01","Colaborador",1
+"DEBUG_STKOVF","2000-02-01","Autor",1
+"DEBUG_SYM","2000-02-01","Autor",1
+"DEBUG_SYM","2001-09-01","Colaborador",1
+"DEBUG_SYM","2001-10-01","Colaborador",1
+"DEBUG_SYNTAX","2000-11-01","Colaborador",1
+"DEBUG_SYNTAX","2002-05-01","Autor",1
+"DEBUG_SYNTAX","2004-10-01","Autor",1
+"DEFINED_ONCE","2003-09-01","Colaborador",1
+"DEFINED_ONCE","2004-09-01","Colaborador",1
+"DLL_EXPORT","2000-02-01","Autor",1
+"DLL_EXPORT","2000-11-01","Colaborador",1
+"DLL_EXPORT","2004-06-01","Colaborador",1
+"DYNAMIC_PATH","2000-02-01","Autor",1
+"DYNAMIC_PATH","2004-06-01","Colaborador",1
+"ELIDE_CODE","2000-02-01","Autor",1
+"ELIDE_CODE","2004-09-01","Colaborador",1
+"emacs","2000-02-01","Autor",1
+"emacs","2000-11-01","Colaborador",1
+"emacs","2003-09-01","Colaborador",1
+"emacs","2003-10-01","Autor",1
+"emacs","2003-10-01","Colaborador",1
+"emacs","2004-09-01","Colaborador",1
+"emacs   /* Emacs never uses this.  */","2000-02-01","Autor",1
+"emacs   /* Emacs never uses this.  */","2004-09-01","Colaborador",1
+"ENABLE_CHANGEWORD","2000-02-01","Autor",1
+"ENABLE_CHANGEWORD","2000-11-01","Colaborador",1
+"ENABLE_CHANGEWORD","2001-08-01","Colaborador",1
+"ENABLE_NLS","2000-11-01","Colaborador",1
+"ENUM_DYLD_BOOL","2003-05-01","Colaborador",1
+"ENUM_DYLD_BOOL","2004-06-01","Colaborador",1
+"errno","2000-11-01","Colaborador",1
+"errno","2004-09-01","Colaborador",1
+"errno","2006-08-01","Colaborador",1
+"EXIT_FAILURE","2000-02-01","Autor",1
+"EXIT_FAILURE","2000-11-01","Colaborador",1
+"EXIT_FAILURE","2003-08-01","Colaborador",1
+"EXIT_FAILURE","2003-09-01","Autor",1
+"EXIT_FAILURE","2003-09-01","Colaborador",1
+"EXIT_FAILURE","2003-10-01","Autor",1
+"EXIT_FAILURE","2003-10-01","Colaborador",1
+"EXTRACT_MACROS","2000-02-01","Autor",1
+"EXTRACT_MACROS /* To debug the macros.  */","2000-02-01","Autor",1
+"getenv","2000-02-01","Autor",1
+"getenv","2004-09-01","Colaborador",1
+"gettext_noop","2000-02-01","Autor",1
+"gettext_noop","2003-09-01","Colaborador",1
+"HAVE_CLOSEDIR","2003-05-01","Colaborador",1
+"HAVE_CLOSEDIR","2003-11-01","Colaborador",1
+"HAVE_CONFIG_H","2000-02-01","Autor",1
+"HAVE_CONFIG_H","2000-11-01","Colaborador",1
+"HAVE_CONFIG_H","2003-08-01","Colaborador",1
+"HAVE_CONFIG_H","2003-09-01","Autor",1
+"HAVE_CONFIG_H","2003-09-01","Colaborador",1
+"HAVE_CONFIG_H","2003-10-01","Autor",1
+"HAVE_CONFIG_H","2003-10-01","Colaborador",1
+"HAVE_CONFIG_H","2004-09-01","Autor",1
+"HAVE_CONFIG_H","2004-09-01","Colaborador",1
+"HAVE_DECL_STRNLEN","2003-09-01","Autor",1
+"HAVE_DECL_STRNLEN","2004-09-01","Autor",1
+"HAVE_DECL_STRNLEN","2004-09-01","Colaborador",1
+"HAVE_DL_H","2000-02-01","Autor",1
+"HAVE_DL_H","2001-08-01","Colaborador",1
+"HAVE_DL_H","2004-06-01","Colaborador",1
+"HAVE_EFGCVT","2000-02-01","Autor",1
+"HAVE_LIBDL && !(__CYGWIN__)","2000-11-01","Colaborador",1
+"HAVE_LIBDL && !(__CYGWIN__)","2001-08-01","Colaborador",1
+"HAVE_LIBDL && !(__CYGWIN__)","2003-05-01","Colaborador",1
+"HAVE_LIBINTL_H ||  _LIBC","2000-02-01","Autor",1
+"HAVE_LIBINTL_H ||  _LIBC","2003-09-01","Colaborador",1
+"HAVE_LIMITS_H","2000-11-01","Colaborador",1
+"HAVE_LIMITS_H","2003-10-01","Autor",1
+"HAVE_LIMITS_H","2003-10-01","Colaborador",1
+"HAVE_MALLOC","2003-09-01","Colaborador",1
+"HAVE_MALLOC","2004-06-01","Colaborador",1
+"HAVE_MEMPCPY ||  _LIBC","2000-02-01","Autor",1
+"HAVE_MEMPCPY ||  _LIBC","2004-09-01","Colaborador",1
+"HAVE_MKSTEMP","2000-02-01","Autor",1
+"HAVE_MKSTEMP","2006-06-01","Colaborador",1
+"HAVE_MKTEMP","2000-11-01","Colaborador",1
+"HAVE_MKTEMP","2006-06-01","Colaborador",1
+"HAVE_MKTIME","2000-11-01","Colaborador",1
+"HAVE_PRELOADED_SYMBOLS","2000-02-01","Autor",1
+"HAVE_PRELOADED_SYMBOLS","2000-11-01","Colaborador",1
+"HAVE_PUTENV","2000-11-01","Colaborador",1
+"HAVE_REALLOC","2003-09-01","Colaborador",1
+"HAVE_REALLOC","2004-06-01","Colaborador",1
+"HAVE_SETENV","2000-11-01","Colaborador",1
+"HAVE_SIGACTION &&  SA_ONSTACK","2006-07-01","Colaborador",1
+"HAVE_SIGACTION && (SA_ONSTACK)","2000-02-01","Autor",1
+"HAVE_SIGACTION && (SA_ONSTACK)","2006-07-01","Colaborador",1
+"HAVE_SIGALTSTACK && ((HAVE_SIGINFO_H) || !HAVE_SIGSTACK)","2000-02-01","Autor",1
+"HAVE_SIGALTSTACK && ((HAVE_SIGINFO_H) || !HAVE_SIGSTACK)","2000-11-01","Colaborador",1
+"HAVE_SIGCONTEXT","2006-07-01","Colaborador",1
+"HAVE_SIGINFO_T","2006-07-01","Colaborador",1
+"HAVE_SIGSTACK","2006-07-01","Colaborador",1
+"HAVE_SIGVEC && (SV_ONSTACK)","2000-02-01","Autor",1
+"HAVE_SIGVEC && (SV_ONSTACK)","2006-07-01","Colaborador",1
+"HAVE_SIGVEC && defined SV_ONSTACK","2006-07-01","Colaborador",1
+"HAVE_STRERROR_R ||  _LIBC","2000-02-01","Autor",1
+"HAVE_STRERROR_R ||  _LIBC","2003-09-01","Colaborador",1
+"HAVE_STRERROR_R || _LIBC","2003-09-01","Colaborador",1
+"HAVE_STRERROR_R || _LIBC","2004-09-01","Colaborador",1
+"HAVE_STRFTIME","2000-11-01","Colaborador",1
+"HAVE_TMPFILE","2000-02-01","Autor",1
+"HAVE_TMPFILE","2000-11-01","Colaborador",1
+"HAVE_TMPFILE","2006-10-01","Colaborador",1
+"HAVE_UNSETENV","2000-11-01","Colaborador",1
+"INHIBIT_STRING_HEADER","2000-02-01","Autor",1
+"INIT_FAILURE_ALLOC","2000-02-01","Autor",1
+"INIT_FAILURE_ALLOC","2003-09-01","Colaborador",1
+"INSIDE_RECURSION","2003-09-01","Colaborador",1
+"INSIDE_RECURSION","2004-09-01","Colaborador",1
+"INT_IS_16BIT","2000-02-01","Autor",1
+"INT_IS_16BIT","2003-09-01","Colaborador",1
+"isblank","2000-02-01","Autor",1
+"isblank","2003-09-01","Colaborador",1
+"isgraph","2000-02-01","Autor",1
+"isgraph","2003-09-01","Colaborador",1
+"LC_LOAD_WEAK_DYLIB","2003-05-01","Colaborador",1
+"LC_LOAD_WEAK_DYLIB","2004-06-01","Colaborador",1
+"LC_REQ_DYLD","2003-05-01","Colaborador",1
+"LC_REQ_DYLD","2004-06-01","Colaborador",1
+"LONG_MAX","2000-02-01","Autor",1
+"LONG_MIN","2000-02-01","Autor",1
+"LT_DIRSEP_CHAR","2000-11-01","Colaborador",1
+"LT_DIRSEP_CHAR","2001-08-01","Colaborador",1
+"LT_DIRSEP_CHAR","2004-06-01","Colaborador",1
+"LT_FILENAME_MAX","2000-11-01","Colaborador",1
+"LT_FILENAME_MAX","2004-06-01","Colaborador",1
+"LT_GLOBAL","2000-11-01","Colaborador",1
+"LT_GLOBAL","2001-08-01","Colaborador",1
+"LT_GLOBAL","2004-06-01","Colaborador",1
+"LT_LAZY_OR_NOW","2000-11-01","Colaborador",1
+"LT_LAZY_OR_NOW","2001-08-01","Colaborador",1
+"LT_LAZY_OR_NOW","2004-06-01","Colaborador",1
+"LT_USE_POSIX_DIRENT","2003-05-01","Colaborador",1
+"LT_USE_POSIX_DIRENT","2003-11-01","Colaborador",1
+"LT_USE_WINDOWS_DIRENT_EMULATION","2003-05-01","Colaborador",1
+"LT_USE_WINDOWS_DIRENT_EMULATION","2003-11-01","Colaborador",1
+"LTDL_DIRSEP_CHAR","2000-02-01","Autor",1
+"LTDL_DIRSEP_CHAR","2000-11-01","Colaborador",1
+"LTDL_FILENAME_MAX","2000-02-01","Autor",1
+"LTDL_FILENAME_MAX","2000-11-01","Colaborador",1
+"LTDL_GLOBAL","2000-11-01","Colaborador",1
+"LTDL_LAZY_OR_NOW","2000-02-01","Autor",1
+"LTDL_LAZY_OR_NOW","2000-11-01","Colaborador",1
+"LTDL_SHLIB_EXT","2000-02-01","Autor",1
+"LTDL_SHLIB_EXT","2001-08-01","Colaborador",1
+"LTDL_SHLIB_EXT","2001-09-01","Colaborador",1
+"LTDL_SHLIB_EXT","2004-06-01","Colaborador",1
+"LTDL_SHLIBPATH_VAR","2000-02-01","Autor",1
+"LTDL_SHLIBPATH_VAR","2000-11-01","Colaborador",1
+"LTDL_SHLIBPATH_VAR","2001-08-01","Colaborador",1
+"LTDL_SHLIBPATH_VAR","2004-06-01","Colaborador",1
+"LTDL_SYSSEARCHPATH","2000-11-01","Colaborador",1
+"LTDL_SYSSEARCHPATH","2001-08-01","Colaborador",1
+"LTDL_SYSSEARCHPATH","2004-06-01","Colaborador",1
+"MATCH_MAY_ALLOCATE","2000-02-01","Autor",1
+"MATCH_MAY_ALLOCATE","2003-09-01","Colaborador",1
+"MATCH_MAY_ALLOCATE","2004-09-01","Colaborador",1
+"MATCH_MAY_ALLOCATE /* otherwise, these are global.  */","2000-02-01","Autor",1
+"MATCH_MAY_ALLOCATE /* otherwise, these are global.  */","2004-09-01","Colaborador",1
+"MATCH_MAY_ALLOCATE /* otherwise, this is global.  */","2000-02-01","Autor",1
+"MATCH_MAY_ALLOCATE /* otherwise, this is global.  */","2004-09-01","Colaborador",1
+"MBS_SUPPORT","2003-09-01","Colaborador",1
+"MBS_SUPPORT","2004-09-01","Colaborador",1
+"min","2000-11-01","Colaborador",1
+"NDEBUG","2001-09-01","Autor",1
+"NDEBUG","2001-09-01","Colaborador",1
+"NDEBUG","2001-10-01","Colaborador",1
+"NDEBUG","2003-06-01","Colaborador",1
+"NDEBUG","2006-10-01","Colaborador",1
+"NDEBUG","2007-04-01","Autor",1
+"NDEBUG","2007-04-01","Colaborador",1
+"NDEBUG","2013-09-01","Colaborador",1
+"NEED_USCORE","2000-02-01","Autor",1
+"NEED_USCORE","2000-11-01","Colaborador",1
+"NSADDIMAGE_OPTION_MATCH_FILENAME_BY_INSTALLNAME","2003-05-01","Colaborador",1
+"NSADDIMAGE_OPTION_MATCH_FILENAME_BY_INSTALLNAME","2004-06-01","Colaborador",1
+"NSADDIMAGE_OPTION_NONE","2003-05-01","Colaborador",1
+"NSADDIMAGE_OPTION_NONE","2004-06-01","Colaborador",1
+"NSADDIMAGE_OPTION_RETURN_ON_ERROR","2003-05-01","Colaborador",1
+"NSADDIMAGE_OPTION_RETURN_ON_ERROR","2004-06-01","Colaborador",1
+"NSADDIMAGE_OPTION_RETURN_ONLY_IF_LOADED","2003-05-01","Colaborador",1
+"NSADDIMAGE_OPTION_RETURN_ONLY_IF_LOADED","2004-06-01","Colaborador",1
+"NSADDIMAGE_OPTION_WITH_SEARCHING","2003-05-01","Colaborador",1
+"NSADDIMAGE_OPTION_WITH_SEARCHING","2004-06-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_BIND","2003-05-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_BIND","2004-06-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_FULLY","2003-05-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_FULLY","2004-06-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_NOW","2003-05-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_BIND_NOW","2004-06-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_RETURN_ON_ERROR","2003-05-01","Colaborador",1
+"NSLOOKUPSYMBOLINIMAGE_OPTION_RETURN_ON_ERROR","2004-06-01","Colaborador",1
+"NULL","2000-02-01","Autor",1
+"NULL","2000-11-01","Colaborador",1
+"NULL","2001-08-01","Colaborador",1
+"NULL","2003-09-01","Colaborador",1
+"NULL","2004-09-01","Colaborador",1
+"OS2","2007-01-01","Colaborador",1
+"OS2","2008-04-01","Colaborador",1
+"PARAMS","2000-02-01","Autor",1
+"PARAMS","2003-09-01","Colaborador",1
+"PATFETCH","2000-02-01","Autor",1
+"PATFETCH","2003-09-01","Colaborador",1
+"QUAD","2000-11-01","Colaborador",1
+"QUAD","2004-09-01","Colaborador",1
+"REGEX_MALLOC","2000-02-01","Autor",1
+"REGEX_MALLOC","2003-09-01","Colaborador",1
+"REGEX_MALLOC","2004-09-01","Colaborador",1
+"REL_ALLOC","2000-02-01","Autor",1
+"REL_ALLOC","2004-09-01","Colaborador",1
+"REL_ALLOC &&  REGEX_MALLOC","2000-02-01","Autor",1
+"REL_ALLOC &&  REGEX_MALLOC","2003-09-01","Colaborador",1
+"RTLD_GLOBAL","2000-02-01","Autor",1
+"RTLD_GLOBAL","2001-08-01","Colaborador",1
+"RTLD_GLOBAL","2004-06-01","Colaborador",1
+"SA_RESETHAND","2000-02-01","Autor",1
+"SA_RESETHAND","2006-07-01","Colaborador",1
+"SA_SIGINFO","2000-02-01","Autor",1
+"SA_SIGINFO","2006-07-01","Colaborador",1
+"SIGSTKSZ","2000-02-01","Autor",1
+"SIZE_MAX","2003-11-01","Colaborador",1
+"SIZE_MAX","2004-09-01","Colaborador",1
+"STACK_DIRECTION","2000-02-01","Autor",1
+"STACK_DIRECTION","2000-11-01","Colaborador",1
+"STACKOVF_DETECT","2000-02-01","Autor",1
+"static","2000-02-01","Autor",1
+"static","2000-11-01","Colaborador",1
+"STDC_HEADERS","2000-02-01","Autor",1
+"STDC_HEADERS","2000-11-01","Colaborador",1
+"STDC_HEADERS","2003-09-01","Colaborador",1
+"STDC_HEADERS","2003-10-01","Autor",1
+"STDC_HEADERS","2003-10-01","Colaborador",1
+"STDC_HEADERS && ! emacs","2000-02-01","Autor",1
+"STDC_HEADERS && ! emacs","2003-09-01","Colaborador",1
+"STDC_HEADERS || (! isascii && ! HAVE_ISASCII)","2000-02-01","Autor",1
+"STDC_HEADERS || (! isascii && ! HAVE_ISASCII)","2003-09-01","Colaborador",1
+"SV_RESETHAND","2000-02-01","Autor",1
+"SV_RESETHAND","2006-07-01","Colaborador",1
+"SWITCH_ENUM_BUG","2000-02-01","Autor",1
+"Sword","2000-02-01","Autor",1
+"SYNTAX_TABLE","2000-02-01","Autor",1
+"TEST","2000-02-01","Autor",1
+"TEST","2000-11-01","Colaborador",1
+"TEST","2004-09-01","Colaborador",1
+"TM_IN_SYS_TIME","2000-11-01","Colaborador",1
+"TRANSLATE","2000-02-01","Autor",1
+"TRANSLATE","2003-09-01","Colaborador",1
+"ULONG_MAX","2000-02-01","Autor",1
+"UNIX ||  WEXITSTATUS","2006-08-01","Colaborador",1
+"UNIX ||  WEXITSTATUS","2009-03-01","Colaborador",1
+"UNSIGNED","2000-02-01","Autor",1
+"UNSIGNED","2000-11-01","Colaborador",1
+"UNSIGNED","2004-09-01","Colaborador",1
+"USE_GMP","2000-11-01","Colaborador",1
+"USE_IN_EXTENDED_LOCALE_MODEL","2000-11-01","Colaborador",1
+"USE_IN_EXTENDED_LOCALE_MODEL","2004-09-01","Colaborador",1
+"USE_NUMBER_GROUPING","2000-11-01","Colaborador",1
+"USE_NUMBER_GROUPING","2004-09-01","Colaborador",1
+"USE_STACKOVF","2000-02-01","Autor",1
+"USE_STACKOVF","2000-11-01","Colaborador",1
+"USE_STACKOVF","2001-09-01","Colaborador",1
+"USE_WIDE_CHAR","2000-11-01","Colaborador",1
+"USE_WIDE_CHAR","2004-09-01","Colaborador",1
+"VA_START","2000-02-01","Autor",1
+"VA_START","2003-09-01","Colaborador",1
+"VA_START","2003-10-01","Autor",1
+"VA_START","2003-10-01","Colaborador",1
+"VA_START && __STDC__","2000-02-01","Autor",1
+"VA_START && __STDC__","2003-09-01","Colaborador",1
+"VA_START && __STDC__","2003-10-01","Autor",1
+"VA_START && __STDC__","2003-10-01","Colaborador",1
+"VMS","2000-02-01","Autor",1
+"VMS","2004-09-01","Colaborador",1
+"W32_NATIVE","2007-01-01","Colaborador",1
+"W32_NATIVE","2008-04-01","Colaborador",1
+"WCHAR","2003-09-01","Colaborador",1
+"WCHAR","2004-09-01","Colaborador",1
+"weak_alias","2003-09-01","Autor",1
+"weak_alias","2004-09-01","Autor",1
+"weak_alias","2004-09-01","Colaborador",1
+"weak_function","2000-11-01","Colaborador",1
+"weak_function","2004-09-01","Colaborador",1
+"WEXITSTATUS","2006-05-01","Colaborador",1
+"WEXITSTATUS","2009-03-01","Colaborador",1
+"WIFEXITED","2006-08-01","Colaborador",1
+"WIFEXITED","2009-03-01","Colaborador",1
+"WIFSIGNALED","2006-08-01","Colaborador",1
+"WIFSIGNALED","2009-03-01","Colaborador",1
+"WIN32","2005-05-01","Colaborador",1
+"WIN32","2007-01-01","Colaborador",1
+"WITH_DMALLOC","2000-11-01","Colaborador",1
+"WITH_DMALLOC","2003-09-01","Colaborador",1
+"WITH_GMP","2000-02-01","Autor",1
+"WITH_GMP","2000-11-01","Colaborador",1
+"WITH_GMP","2001-08-01","Colaborador",1
+"WITH_MODULES","2000-02-01","Autor",1
+"WITH_MODULES","2000-11-01","Colaborador",1
+"WTERMSIG","2006-08-01","Colaborador",1
+"WTERMSIG","2009-03-01","Colaborador",1

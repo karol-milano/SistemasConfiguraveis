@@ -1,0 +1,533 @@
+"Desenvolvedor","Data","Classificacao_ownership","Major","Minor","Total"
+"Fabled","2001-10-01","Major",1,0,1
+"Jey","2001-10-01","Major",2,0,2
+"Fabled","2001-11-01","Major",2,0,2
+"Jey","2001-11-01","Major",3,0,3
+"Aet","2001-12-01","Major",3,0,3
+"Jey","2001-12-01","Major",3,0,3
+"Aet","2002-01-01","Major",3,0,3
+"Fabled","2002-01-01","Major",3,0,3
+"Jey","2002-01-01","Major",3,0,3
+"Aet","2002-02-01","Major",3,0,3
+"Jey","2002-02-01","Major",4,0,4
+"Okir","2002-02-01","Major",4,0,4
+"Aet","2002-03-01","Major",4,0,4
+"Fabled","2002-03-01","Major",4,0,4
+"Jey","2002-03-01","Major",4,0,4
+"Okir","2002-03-01","Major",4,0,4
+"Aet","2002-04-01","Major",4,0,4
+"Jey","2002-04-01","Major",4,0,4
+"Okir","2002-04-01","Major",4,0,4
+"Aet","2002-05-01","Major",4,0,4
+"Jey","2002-05-01","Major",4,0,4
+"Aet","2002-06-01","Major",4,0,4
+"Fabled","2002-06-01","Major",4,0,4
+"Jey","2002-06-01","Major",4,0,4
+"Okir","2002-06-01","Major",4,0,4
+"Jey","2002-08-01","Major",4,0,4
+"Okir","2002-08-01","Major",4,0,4
+"Okir","2002-09-01","Major",4,0,4
+"Aet","2002-10-01","Major",4,0,4
+"Okir","2002-10-01","Major",4,0,4
+"Aet","2002-11-01","Major",4,0,4
+"Okir","2002-11-01","Major",4,0,4
+"Jey","2002-12-01","Major",4,0,4
+"Okir","2002-12-01","Major",4,0,4
+"Aet","2003-01-01","Major",4,0,4
+"Okir","2003-01-01","Major",5,0,5
+"Sth","2003-01-01","Major",5,0,5
+"Okir","2003-02-01","Major",5,0,5
+"Sth","2003-02-01","Major",5,0,5
+"Okir","2003-03-01","Major",5,0,5
+"Sth","2003-03-01","Major",5,0,5
+"Jey","2003-04-01","Major",5,0,5
+"Okir","2003-04-01","Major",6,0,6
+"Aj","2003-05-01","Major",6,0,6
+"Okir","2003-05-01","Major",6,0,6
+"Sth","2003-05-01","Major",6,0,6
+"Okir","2003-06-01","Major",6,0,6
+"Sth","2003-06-01","Major",6,0,6
+"Aet","2003-07-01","Major",6,0,6
+"Okir","2003-07-01","Major",6,0,6
+"Sth","2003-07-01","Major",6,0,6
+"Aet","2003-08-01","Major",6,0,6
+"Okir","2003-08-01","Major",6,0,6
+"Sth","2003-08-01","Major",6,0,6
+"Aet","2003-09-01","Major",6,0,6
+"Okir","2003-09-01","Major",6,0,6
+"Aet","2003-10-01","Major",6,0,6
+"Okir","2003-10-01","Major",6,0,6
+"Sth","2003-10-01","Major",6,0,6
+"Aet","2003-11-01","Major",6,0,6
+"Okir","2003-11-01","Major",6,0,6
+"Sth","2003-11-01","Major",6,0,6
+"Aet","2003-12-01","Major",6,0,6
+"Okir","2003-12-01","Major",6,0,6
+"Aet","2004-01-01","Major",6,0,6
+"Okir","2004-01-01","Major",6,0,6
+"Sth","2004-01-01","Major",6,0,6
+"Okir","2004-02-01","Major",6,0,6
+"Aj","2004-04-01","Major",6,0,6
+"Nils","2004-04-01","Major",7,0,7
+"Nils","2004-05-01","Major",7,0,7
+"Aj","2004-06-01","Major",7,0,7
+"Nils","2004-06-01","Major",7,0,7
+"Aj","2004-07-01","Major",7,0,7
+"Nils","2004-07-01","Major",7,0,7
+"Nils","2004-08-01","Major",7,0,7
+"Nils","2004-09-01","Major",7,0,7
+"Aj","2004-10-01","Major",7,0,7
+"Nils","2004-10-01","Major",7,0,7
+"Nils","2004-11-01","Major",7,0,7
+"Sth","2004-11-01","Major",7,0,7
+"Aet","2004-12-01","Major",7,0,7
+"Nils","2004-12-01","Major",7,0,7
+"Aet","2005-01-01","Major",7,0,7
+"Nils","2005-01-01","Major",7,0,7
+"Aet","2005-02-01","Major",7,0,7
+"Nils","2005-02-01","Major",7,0,7
+"Aet","2005-03-01","Major",7,0,7
+"Martin","2005-03-01","Major",9,0,9
+"Nils","2005-03-01","Major",9,0,9
+"Pisi","2005-03-01","Major",9,0,9
+"Sth","2005-03-01","Major",9,0,9
+"Aj","2005-04-01","Major",9,0,9
+"Martin","2005-04-01","Major",9,0,9
+"Nils","2005-04-01","Major",9,0,9
+"Sth","2005-04-01","Major",9,0,9
+"Nils","2005-05-01","Major",9,0,9
+"Sth","2005-05-01","Major",9,0,9
+"Aj","2005-06-01","Major",9,0,9
+"Martin","2005-06-01","Major",9,0,9
+"Nils","2005-06-01","Major",9,0,9
+"Aj","2005-07-01","Major",9,0,9
+"Nils","2005-07-01","Major",9,0,9
+"Sth","2005-07-01","Major",9,0,9
+"Martin","2005-08-01","Major",9,0,9
+"Nils","2005-08-01","Major",9,0,9
+"Sth","2005-08-01","Major",9,0,9
+"Aj","2005-09-01","Major",9,0,9
+"Martin","2005-09-01","Major",9,0,9
+"Nils","2005-09-01","Major",9,0,9
+"Aj","2005-10-01","Major",9,0,9
+"Martin","2005-10-01","Major",9,0,9
+"Nils","2005-10-01","Major",9,0,9
+"Aj","2005-11-01","Major",9,0,9
+"Nils","2005-11-01","Major",9,0,9
+"Aj","2005-12-01","Major",9,0,9
+"Martin","2005-12-01","Major",9,0,9
+"Nils","2005-12-01","Major",9,0,9
+"Aj","2006-01-01","Major",9,0,9
+"Martin","2006-01-01","Major",9,0,9
+"Nils","2006-01-01","Major",9,0,9
+"Martin","2006-02-01","Major",9,0,9
+"Nils","2006-02-01","Major",9,0,9
+"Martin","2006-03-01","Major",9,0,9
+"Nils","2006-03-01","Major",9,0,9
+"Aj","2006-04-01","Major",9,0,9
+"Aj","2006-05-01","Major",9,0,9
+"Nils","2006-05-01","Major",9,0,9
+"Nils","2006-06-01","Major",9,0,9
+"Sth","2006-06-01","Major",10,0,10
+"Ludovic.Rousseau","2006-07-01","Major",10,0,10
+"Nils","2006-07-01","Major",10,0,10
+"Martin","2006-08-01","Major",10,0,10
+"Nils","2006-08-01","Major",10,0,10
+"Martin","2006-09-01","Major",10,0,10
+"Nils","2006-09-01","Major",10,0,10
+"Martin","2006-10-01","Major",10,0,10
+"Aj","2006-11-01","Major",10,0,10
+"Nils","2006-11-01","Major",10,0,10
+"Aj","2006-12-01","Major",10,0,10
+"Martin","2007-01-01","Major",10,0,10
+"Nils","2007-01-01","Major",10,0,10
+"Nils","2007-02-01","Major",10,0,10
+"Aj","2007-03-01","Major",10,0,10
+"Martin","2007-03-01","Major",10,0,10
+"Aj","2007-04-01","Major",10,0,10
+"Nils","2007-04-01","Major",10,0,10
+"Nils","2007-05-01","Major",10,0,10
+"Aj","2007-06-01","Major",10,0,10
+"Nils","2007-06-01","Major",10,0,10
+"Aj","2007-07-01","Major",10,0,10
+"Nils","2007-07-01","Major",10,0,10
+"Aj","2007-08-01","Major",10,0,10
+"Nils","2007-08-01","Major",11,0,11
+"Gurer","2007-09-01","Major",11,0,11
+"Nils","2007-09-01","Major",11,0,11
+"Gurer","2007-10-01","Major",11,0,11
+"Ludovic.Rousseau","2007-11-01","Major",11,0,11
+"Ludovic.Rousseau","2007-12-01","Major",11,0,11
+"Martin","2007-12-01","Major",11,0,11
+"Ludovic.Rousseau","2008-01-01","Major",11,0,11
+"Martin","2008-02-01","Major",11,0,11
+"Nils","2008-02-01","Major",12,0,12
+"Alonbl","2008-03-01","Major",12,0,12
+"Ludovic.Rousseau","2008-03-01","Major",12,0,12
+"Alonbl","2008-04-01","Major",12,0,12
+"Ludovic.Rousseau","2008-04-01","Major",12,0,12
+"Ludovic.Rousseau","2008-05-01","Major",12,0,12
+"Aj","2008-07-01","Major",12,0,12
+"Aj","2008-08-01","Major",12,0,12
+"Aj","2008-09-01","Major",12,0,12
+"Martin","2008-11-01","Major",12,0,12
+"Alonbl","2009-01-01","Major",12,0,12
+"Martin","2009-01-01","Major",12,0,12
+"Martin","2009-03-01","Major",12,0,12
+"Aj","2009-04-01","Major",12,0,12
+"Martin","2009-04-01","Major",12,0,12
+"Ludovic.Rousseau","2009-05-01","Major",12,0,12
+"Aj","2009-06-01","Major",12,0,12
+"Aj","2009-07-01","Major",12,0,12
+"Aj","2009-09-01","Major",12,0,12
+"Martin","2009-09-01","Major",12,0,12
+"Aj","2009-10-01","Major",12,0,12
+"Ludovic.Rousseau","2009-10-01","Major",13,0,13
+"Martin","2009-10-01","Major",13,0,13
+"S","2009-10-01","Major",13,0,13
+"Martin","2009-11-01","Major",13,0,13
+"S","2009-11-01","Major",14,0,14
+"Viktor.Tarasov","2009-11-01","Major",14,0,14
+"Aj","2009-12-01","Major",14,0,14
+"Viktor.Tarasov","2009-12-01","Major",14,0,14
+"Martin","2010-01-01","Major",14,0,14
+"Viktor.Tarasov","2010-01-01","Major",14,0,14
+"Aj","2010-02-01","Major",14,0,14
+"Alonbl","2010-02-01","Major",15,0,15
+"Flc","2010-02-01","Major",15,0,15
+"Martin","2010-02-01","Major",15,0,15
+"S","2010-02-01","Major",15,0,15
+"Viktor.Tarasov","2010-02-01","Major",15,0,15
+"Aj","2010-03-01","Major",15,0,15
+"Flc","2010-03-01","Major",15,0,15
+"Ludovic.Rousseau","2010-03-01","Major",15,0,15
+"Viktor.Tarasov","2010-03-01","Major",15,0,15
+"Ludovic.Rousseau","2010-04-01","Major",15,0,15
+"Martin","2010-04-01","Major",15,0,15
+"Viktor.Tarasov","2010-04-01","Major",15,0,15
+"Martin","2010-05-01","Major",15,0,15
+"Viktor.Tarasov","2010-05-01","Major",15,0,15
+"Martin","2010-06-01","Major",15,0,15
+"Flc","2010-07-01","Major",15,0,15
+"Martin","2010-07-01","Major",16,0,16
+"Viktor.Tarasov","2010-07-01","Major",16,0,16
+"Ep","2010-08-01","Major",16,0,16
+"Ludovic.Rousseau","2010-08-01","Major",17,0,17
+"Martin","2010-08-01","Major",17,0,17
+"Dengert","2010-09-01","Major",17,0,17
+"Ep","2010-09-01","Major",17,0,17
+"Flc","2010-09-01","Major",17,0,17
+"Ludovic.Rousseau","2010-09-01","Major",17,0,17
+"Martin","2010-09-01","Major",17,0,17
+"S","2010-09-01","Major",17,0,17
+"Viktor.Tarasov","2010-09-01","Major",17,0,17
+"Flc","2010-10-01","Major",17,0,17
+"Martin","2010-10-01","Major",17,0,17
+"Martin","2010-11-01","Major",17,0,17
+"Ep","2010-12-01","Major",17,0,17
+"Ludovic.Rousseau","2010-12-01","Major",18,0,18
+"Martin","2010-12-01","Major",18,0,18
+"Vtarasov","2010-12-01","Major",18,0,18
+"Ep","2011-01-01","Major",18,0,18
+"Martin","2011-01-01","Major",18,0,18
+"Vtarasov","2011-01-01","Major",18,0,18
+"Ludovic.Rousseau","2011-02-01","Major",18,0,18
+"Martin","2011-02-01","Major",18,0,18
+"Vtarasov","2011-02-01","Major",18,0,18
+"Ludovic.Rousseau","2011-03-01","Major",18,0,18
+"Martin","2011-03-01","Major",18,0,18
+"Vtarasov","2011-03-01","Major",18,0,18
+"Martin","2011-04-01","Major",18,0,18
+"Vtarasov","2011-04-01","Major",19,0,19
+"Peter Marschall","2011-05-01","Major",19,0,19
+"Vtarasov","2011-05-01","Major",19,0,19
+"Peter Marschall","2011-06-01","Major",19,0,19
+"Vtarasov","2011-06-01","Major",20,0,20
+"Doug Engert","2011-12-01","Major",20,0,20
+"Frank Morgner","2012-02-01","Major",21,0,21
+"Frank Morgner","2012-04-01","Major",21,0,21
+"Viktor Tarasov","2012-04-01","Major",22,0,22
+"Peter Marschall","2012-05-01","Major",22,0,22
+"Viktor Tarasov","2012-05-01","Major",22,0,22
+"Peter Marschall","2012-06-01","Major",22,0,22
+"Viktor Tarasov","2012-06-01","Major",22,0,22
+"Frank Morgner","2012-07-01","Major",22,0,22
+"Viktor Tarasov","2012-07-01","Major",23,0,23
+"Andreas Schwier","2012-08-01","Major",23,0,23
+"Doug Engert","2012-08-01","Major",23,0,23
+"Frank Morgner","2012-08-01","Major",23,0,23
+"Viktor Tarasov","2012-08-01","Major",23,0,23
+"Andreas Schwier","2012-09-01","Major",23,0,23
+"Viktor Tarasov","2012-09-01","Major",23,0,23
+"Andreas Schwier","2012-10-01","Major",23,0,23
+"Viktor Tarasov","2012-10-01","Major",23,0,23
+"Andreas Schwier","2012-11-01","Major",23,0,23
+"Viktor Tarasov","2012-11-01","Major",23,0,23
+"Viktor Tarasov","2012-12-01","Major",23,0,23
+"Andreas Schwier","2013-01-01","Major",23,0,23
+"Viktor Tarasov","2013-01-01","Major",23,0,23
+"Andreas Schwier","2013-02-01","Major",23,0,23
+"Martin Paljak","2013-02-01","Major",24,0,24
+"Viktor Tarasov","2013-03-01","Major",24,0,24
+"Andreas Schwier","2013-04-01","Major",24,0,24
+"Frank Morgner","2013-05-01","Major",24,0,24
+"Andreas Schwier","2013-06-01","Major",24,0,24
+"Frank Morgner","2013-06-01","Major",25,0,25
+"German Blanco","2013-06-01","Major",25,0,25
+"Frank Morgner","2013-07-01","Major",25,0,25
+"Andreas Schwier","2013-08-01","Major",25,0,25
+"Frank Morgner","2013-08-01","Major",25,0,25
+"Frank Morgner","2013-09-01","Major",25,0,25
+"Andreas Schwier","2013-10-01","Major",25,0,25
+"Andreas Schwier","2013-11-01","Major",25,0,25
+"Doug Engert","2013-11-01","Major",25,0,25
+"Andreas Schwier","2013-12-01","Major",25,0,25
+"Viktor Tarasov","2013-12-01","Major",25,0,25
+"Andreas Schwier","2014-01-01","Major",25,0,25
+"Viktor Tarasov","2014-01-01","Major",25,0,25
+"Frank Morgner","2014-02-01","Major",25,0,25
+"Viktor Tarasov","2014-02-01","Major",25,0,25
+"Frank Morgner","2014-03-01","Major",25,0,25
+"Martin Paljak","2014-03-01","Major",26,0,26
+"Raul Metsma","2014-04-01","Major",26,0,26
+"Andreas Schwier","2014-06-01","Major",26,0,26
+"Frank Morgner","2014-06-01","Major",26,0,26
+"Andreas Schwier","2014-07-01","Major",26,0,26
+"Frank Morgner","2014-07-01","Major",26,0,26
+"Frank Morgner","2014-08-01","Major",26,0,26
+"Philip Wendland","2014-08-01","Major",27,0,27
+"Andreas Schwier","2014-09-01","Major",27,0,27
+"Ludovic Rousseau","2014-10-01","Major",28,0,28
+"Philip Wendland","2014-10-01","Major",28,0,28
+"Andreas Schwier","2014-11-01","Major",28,0,28
+"Doug Engert","2014-11-01","Major",28,0,28
+"Frank Morgner","2014-11-01","Major",28,0,28
+"Philip Wendland","2014-11-01","Major",28,0,28
+"Frank Morgner","2014-12-01","Major",28,0,28
+"Frank Morgner","2015-01-01","Major",28,0,28
+"Doug Engert","2015-02-01","Major",28,0,28
+"Frank Morgner","2015-02-01","Major",29,0,29
+"Hannu Honkanen","2015-02-01","Major",29,0,29
+"Philip Wendland","2015-02-01","Major",29,0,29
+"Viktor Tarasov","2015-02-01","Major",29,0,29
+"Frank Morgner","2015-03-01","Major",29,0,29
+"Philip Wendland","2015-03-01","Major",30,0,30
+"Viktor Tarasov","2015-03-01","Major",30,0,30
+"Vletoux","2015-03-01","Major",30,0,30
+"Doug Engert","2015-04-01","Major",30,0,30
+"Frank Morgner","2015-04-01","Major",30,0,30
+"Philip Wendland","2015-04-01","Major",30,0,30
+"Vletoux","2015-04-01","Major",30,0,30
+"Doug Engert","2015-05-01","Major",30,0,30
+"Frank Morgner","2015-05-01","Major",31,0,31
+"German Blanco","2015-05-01","Major",31,0,31
+"Hector Sanjuan","2015-05-01","Major",31,0,31
+"Viktor Tarasov","2015-05-01","Major",31,0,31
+"Vletoux","2015-05-01","Major",31,0,31
+"German Blanco","2015-06-01","Major",31,0,31
+"Frank Morgner","2015-07-01","Major",31,0,31
+"German Blanco","2015-07-01","Major",31,0,31
+"Andreas Schwier","2015-08-01","Major",31,0,31
+"Frank Morgner","2015-08-01","Major",31,0,31
+"Andreas Schwier","2015-09-01","Major",31,0,31
+"Doug Engert","2015-09-01","Major",31,0,31
+"Frank Morgner","2015-09-01","Major",31,0,31
+"Peter Marschall","2015-09-01","Major",31,0,31
+"Philip Wendland","2015-09-01","Major",31,0,31
+"Vletoux","2015-09-01","Major",31,0,31
+"Andreas Schwier","2015-10-01","Major",31,0,31
+"Doug Engert","2015-10-01","Major",31,0,31
+"Frank Morgner","2015-10-01","Major",31,0,31
+"Peter Marschall","2015-10-01","Major",31,0,31
+"Vletoux","2015-10-01","Major",31,0,31
+"Frank Morgner","2015-11-01","Major",31,0,31
+"German Blanco","2015-11-01","Major",31,0,31
+"Hannu Honkanen","2015-11-01","Major",31,0,31
+"Vletoux","2015-11-01","Major",31,0,31
+"Andreas Schwier","2015-12-01","Major",31,0,31
+"Doug Engert","2015-12-01","Major",32,0,32
+"Frank Morgner","2015-12-01","Major",32,0,32
+"Le Toux Vincent","2015-12-01","Major",32,0,32
+"Vletoux","2015-12-01","Major",32,0,32
+"Doug Engert","2016-01-01","Major",32,0,32
+"Frank Morgner","2016-01-01","Major",32,0,32
+"Andreas Schwier","2016-02-01","Major",32,0,32
+"Frank Morgner","2016-02-01","Major",32,0,32
+"German Blanco","2016-02-01","Major",32,0,32
+"Viktor Tarasov","2016-02-01","Major",32,0,32
+"Andreas Schwier","2016-03-01","Major",32,0,32
+"Hannu Honkanen","2016-03-01","Major",32,0,32
+"Viktor Tarasov","2016-03-01","Major",32,0,32
+"Andreas Schwier","2016-04-01","Major",32,0,32
+"Viktor Tarasov","2016-04-01","Major",32,0,32
+"Doug Engert","2016-05-01","Major",32,0,32
+"Frank Morgner","2016-05-01","Major",32,0,32
+"Frank Morgner","2016-06-01","Major",32,0,32
+"Hamano Tsukasa","2016-06-01","Major",33,0,33
+"Doug Engert","2016-07-01","Major",33,0,33
+"Hamano Tsukasa","2016-07-01","Major",33,0,33
+"Doug Engert","2016-08-01","Major",33,0,33
+"Frank Morgner","2016-08-01","Major",34,0,34
+"Hannu Honkanen","2016-08-01","Major",34,0,34
+"Maciej S. Szmigiero","2016-08-01","Major",34,0,34
+"Frank Morgner","2016-09-01","Major",34,0,34
+"Raul Metsma","2016-09-01","Major",34,0,34
+"Frank Morgner","2016-10-01","Major",34,0,34
+"Jakub Jelen","2016-10-01","Major",36,0,36
+"Ricky","2016-10-01","Major",36,0,36
+"Viktor Tarasov","2016-10-01","Major",36,0,36
+"Frank Morgner","2016-11-01","Major",36,0,36
+"Jakub Jelen","2016-11-01","Major",36,0,36
+"Ricky","2016-11-01","Major",36,0,36
+"Frank Morgner","2016-12-01","Major",36,0,36
+"Hannu Honkanen","2016-12-01","Major",36,0,36
+"Ricky","2016-12-01","Major",36,0,36
+"Frank Morgner","2017-01-01","Major",36,0,36
+"Jakub Jelen","2017-01-01","Major",36,0,36
+"Frank Morgner","2017-02-01","Major",36,0,36
+"Hamano Tsukasa","2017-02-01","Major",37,0,37
+"Jakuje","2017-02-01","Major",37,0,37
+"Ricky","2017-02-01","Major",37,0,37
+"Frank Morgner","2017-03-01","Major",37,0,37
+"Hamano Tsukasa","2017-03-01","Major",37,0,37
+"Maciej S. Szmigiero","2017-03-01","Major",37,0,37
+"Frank Morgner","2017-04-01","Major",37,0,37
+"Hamano Tsukasa","2017-04-01","Major",37,0,37
+"Hannu Honkanen","2017-04-01","Major",37,0,37
+"Jakub Jelen","2017-04-01","Major",37,0,37
+"Ricky","2017-04-01","Major",37,0,37
+"Frank Morgner","2017-05-01","Major",37,0,37
+"Andreas Schwier","2017-06-01","Major",37,0,37
+"Frank Morgner","2017-06-01","Major",37,0,37
+"Jakub Jelen","2017-06-01","Major",37,0,37
+"Andreas Schwier","2017-07-01","Major",37,0,37
+"Frank Morgner","2017-07-01","Major",37,0,37
+"Hamano Tsukasa","2017-07-01","Major",37,0,37
+"Jakub Jelen","2017-07-01","Major",37,0,37
+"Frank Morgner","2017-08-01","Major",37,0,37
+"Hamano Tsukasa","2017-08-01","Major",37,0,37
+"Frank Morgner","2017-09-01","Major",37,0,37
+"Hannu Honkanen","2017-09-01","Major",37,0,37
+"Frank Morgner","2017-10-01","Major",37,0,37
+"Hannu Honkanen","2017-10-01","Major",37,0,37
+"Raul Metsma","2017-10-01","Major",37,0,37
+"Frank Morgner","2017-11-01","Major",37,0,37
+"Hannu Honkanen","2017-11-01","Major",37,0,37
+"Jakub Jelen","2017-11-01","Major",37,0,37
+"Raul Metsma","2017-11-01","Major",37,0,37
+"Frank Morgner","2017-12-01","Major",37,0,37
+"Doug Engert","2018-01-01","Major",37,0,37
+"Frank Morgner","2018-01-01","Major",37,0,37
+"Jakub Jelen","2018-01-01","Major",37,0,37
+"Jakuje","2018-01-01","Major",37,0,37
+"Doug Engert","2018-02-01","Major",37,0,37
+"Frank Morgner","2018-02-01","Major",37,0,37
+"Doug Engert","2018-03-01","Major",37,0,37
+"Frank Morgner","2018-03-01","Major",37,0,37
+"Hannu Honkanen","2018-03-01","Major",37,0,37
+"Doug Engert","2018-04-01","Major",37,0,37
+"Frank Morgner","2018-04-01","Major",37,0,37
+"Hannu Honkanen","2018-04-01","Major",37,0,37
+"Jakub Jelen","2018-04-01","Major",37,0,37
+"Peter Marschall","2018-04-01","Major",37,0,37
+"Frank Morgner","2018-05-01","Major",37,0,37
+"Hannu Honkanen","2018-05-01","Major",37,0,37
+"Jakub Jelen","2018-05-01","Major",37,0,37
+"Jakuje","2018-05-01","Major",37,0,37
+"Peter Marschall","2018-05-01","Major",37,0,37
+"Raul Metsma","2018-05-01","Major",37,0,37
+"Andreas Schwier","2018-06-01","Major",37,0,37
+"Doug Engert","2018-06-01","Major",37,0,37
+"Frank Morgner","2018-06-01","Major",37,0,37
+"Hannu Honkanen","2018-06-01","Major",37,0,37
+"Jakub Jelen","2018-06-01","Major",37,0,37
+"Peter Marschall","2018-06-01","Major",37,0,37
+"Frank Morgner","2018-07-01","Major",37,0,37
+"Jakub Jelen","2018-07-01","Major",37,0,37
+"Peter Marschall","2018-07-01","Major",37,0,37
+"Andreas Schwier","2018-08-01","Major",37,0,37
+"Doug Engert","2018-08-01","Major",37,0,37
+"Frank Morgner","2018-08-01","Major",37,0,37
+"Jakub Jelen","2018-08-01","Major",37,0,37
+"Frank Morgner","2018-09-01","Major",37,0,37
+"Jakub Jelen","2018-09-01","Major",37,0,37
+"Peter Marschall","2018-09-01","Major",37,0,37
+"Frank Morgner","2018-10-01","Major",37,0,37
+"Hannu Honkanen","2018-10-01","Major",37,0,37
+"Jakub Jelen","2018-10-01","Major",37,0,37
+"Jakuje","2018-10-01","Major",37,0,37
+"Peter Marschall","2018-10-01","Major",37,0,37
+"Frank Morgner","2018-11-01","Major",37,0,37
+"Hannu Honkanen","2018-11-01","Major",37,0,37
+"Jakub Jelen","2018-11-01","Major",37,0,37
+"Peter Marschall","2018-11-01","Major",37,0,37
+"Doug Engert","2018-12-01","Major",37,0,37
+"Frank Morgner","2018-12-01","Major",37,0,37
+"Jakub Jelen","2018-12-01","Major",37,0,37
+"Peter Marschall","2018-12-01","Major",37,0,37
+"Frank Morgner","2019-01-01","Major",37,0,37
+"Hannu Honkanen","2019-01-01","Major",37,0,37
+"Peter Marschall","2019-01-01","Major",37,0,37
+"Raul Metsma","2019-01-01","Major",37,0,37
+"Frank Morgner","2019-02-01","Major",37,0,37
+"Peter Marschall","2019-02-01","Major",37,0,37
+"Frank Morgner","2019-03-01","Major",37,0,37
+"Martin Paljak","2019-03-01","Major",37,0,37
+"Raul Metsma","2019-03-01","Major",37,0,37
+"Frank Morgner","2019-04-01","Major",37,0,37
+"Jakub Jelen","2019-04-01","Major",37,0,37
+"Martin Paljak","2019-04-01","Major",37,0,37
+"Frank Morgner","2019-05-01","Major",37,0,37
+"Jakub Jelen","2019-05-01","Major",37,0,37
+"Andreas Schwier","2019-06-01","Major",37,0,37
+"Frank Morgner","2019-06-01","Major",37,0,37
+"Peter Marschall","2019-06-01","Major",37,0,37
+"Frank Morgner","2019-07-01","Major",37,0,37
+"Jakub Jelen","2019-07-01","Major",38,0,38
+"Programatix","2019-07-01","Major",38,0,38
+"Frank Morgner","2019-08-01","Major",38,0,38
+"Jakub Jelen","2019-08-01","Major",38,0,38
+"Andreas Schwier","2019-09-01","Major",38,0,38
+"Frank Morgner","2019-09-01","Major",38,0,38
+"Jakub Jelen","2019-09-01","Major",38,0,38
+"Frank Morgner","2019-10-01","Major",38,0,38
+"Jakub Jelen","2019-10-01","Major",38,0,38
+"Frank Morgner","2019-11-01","Major",38,0,38
+"Jakub Jelen","2019-11-01","Major",38,0,38
+"Andreas Schwier","2019-12-01","Major",38,0,38
+"Frank Morgner","2019-12-01","Major",38,0,38
+"Jakub Jelen","2019-12-01","Major",38,0,38
+"Peter Marschall","2019-12-01","Major",38,0,38
+"Frank Morgner","2020-01-01","Major",38,0,38
+"Jakub Jelen","2020-01-01","Major",38,0,38
+"Peter Marschall","2020-01-01","Major",38,0,38
+"Frank Morgner","2020-02-01","Major",38,0,38
+"Jakub Jelen","2020-02-01","Major",38,0,38
+"Peter Marschall","2020-02-01","Major",38,0,38
+"Frank Morgner","2020-03-01","Major",38,0,38
+"Jakub Jelen","2020-03-01","Major",38,0,38
+"Peter Marschall","2020-03-01","Major",38,0,38
+"Frank Morgner","2020-04-01","Major",38,0,38
+"Jakub Jelen","2020-04-01","Major",38,0,38
+"Doug Engert","2020-05-01","Major",38,0,38
+"Frank Morgner","2020-05-01","Major",39,0,39
+"Peter Marschall","2020-05-01","Major",39,0,39
+"Piotr Majkrzak","2020-05-01","Major",39,0,39
+"Frank Morgner","2020-06-01","Major",39,0,39
+"Jakub Jelen","2020-06-01","Major",39,0,39
+"Frank Morgner","2020-07-01","Major",39,0,39
+"Jakub Jelen","2020-07-01","Major",39,0,39
+"Jakub Jelen","2020-08-01","Major",39,0,39
+"Peter Marschall","2020-08-01","Major",39,0,39
+"Doug Engert","2020-09-01","Major",39,0,39
+"Frank Morgner","2020-09-01","Major",39,0,39
+"Jakub Jelen","2020-09-01","Major",39,0,39
+"Ricky","2020-09-01","Major",39,0,39
+"Doug Engert","2020-10-01","Major",39,0,39
+"Frank Morgner","2020-10-01","Major",39,0,39
+"Jakub Jelen","2020-10-01","Major",39,0,39
+"Frank Morgner","2020-11-01","Major",39,0,39
+"Jakub Jelen","2020-11-01","Major",39,0,39
+"Ricky","2020-11-01","Major",39,0,39
+"Doug Engert","2020-12-01","Major",39,0,39
+"Jakub Jelen","2020-12-01","Major",NA,NA,NA

@@ -1,0 +1,249 @@
+"Data","Desenvolvedor","Classificacao","Especialista","Generalista","Misto","Total"
+"2000-12-01","Alex","Generalista",0,1,0,1
+"2000-12-01","Alex","Misto",0,0,1,1
+"2001-01-01","Alex","Misto",0,0,1,1
+"2001-02-01","Alex","Misto",0,0,1,1
+"2001-03-01","Alex","Misto",0,0,1,1
+"2001-04-01","Alex","Misto",0,0,1,1
+"2001-05-01","Alex","Misto",0,0,1,1
+"2001-06-01","Alex","Misto",0,0,1,1
+"2001-06-01","Alex Graveley","Especialista",1,0,1,2
+"2001-07-01","Alex","Misto",1,0,1,2
+"2001-08-01","Alex","Misto",1,0,1,2
+"2001-09-01","Alex","Misto",1,0,1,2
+"2001-09-01","Alex Graveley","Misto",0,1,2,3
+"2001-09-01","Dan Winship","Generalista",0,1,2,3
+"2001-10-01","Alex","Misto",0,1,2,3
+"2001-10-01","Dan Winship","Generalista",0,1,2,3
+"2001-11-01","Alex","Misto",0,1,2,3
+"2001-11-01","Alex Graveley","Misto",0,1,2,3
+"2001-11-01","Dan Winship","Generalista",0,1,2,3
+"2002-03-01","Alex","Misto",0,1,2,3
+"2002-03-01","Alex Graveley","Misto",0,0,3,3
+"2002-11-01","Dan Winship","Misto",0,0,3,3
+"2003-01-01","Dan Winship","Misto",0,0,3,3
+"2003-03-01","Dan Winship","Misto",0,0,3,3
+"2003-04-01","Dan Winship","Misto",0,0,3,3
+"2003-05-01","Dan Winship","Misto",0,0,3,3
+"2003-06-01","Dan Winship","Misto",0,0,3,3
+"2003-07-01","Dan Winship","Misto",0,0,3,3
+"2003-08-01","Dan Winship","Misto",0,0,3,3
+"2003-09-01","Dan Winship","Misto",0,0,3,3
+"2003-10-01","Dan Winship","Misto",0,0,3,3
+"2003-11-01","Dan Winship","Misto",0,0,3,3
+"2003-11-01","Rodrigo Moya","Generalista",0,1,3,4
+"2003-12-01","Dan Winship","Misto",0,1,3,4
+"2003-12-01","Rodrigo Moya","Misto",0,0,4,4
+"2004-01-01","Dan Winship","Misto",0,0,4,4
+"2004-01-01","Harish Krishnaswamy","Generalista",0,1,4,5
+"2004-01-01","Rodrigo Moya","Misto",0,1,4,5
+"2004-02-01","Dan Winship","Misto",0,1,4,5
+"2004-02-01","Rodrigo Moya","Misto",0,1,4,5
+"2004-03-01","Dan Winship","Misto",0,1,4,5
+"2004-04-01","Dan Winship","Misto",0,1,4,5
+"2004-05-01","Dan Winship","Misto",0,1,4,5
+"2004-06-01","Dan Winship","Misto",0,1,4,5
+"2004-07-01","Dan Winship","Misto",0,1,4,5
+"2004-08-01","Dan Winship","Misto",0,1,4,5
+"2004-10-01","Dan Winship","Misto",0,1,4,5
+"2005-04-01","Dan Winship","Misto",0,1,4,5
+"2005-06-01","Dan Winship","Misto",0,1,4,5
+"2005-07-01","Dan Winship","Misto",0,1,4,5
+"2005-08-01","Dan Winship","Misto",0,1,4,5
+"2005-10-01","Dan Winship","Misto",0,1,4,5
+"2005-11-01","Dan Winship","Misto",0,1,4,5
+"2005-12-01","Dan Winship","Misto",0,1,4,5
+"2006-03-01","Dan Winship","Misto",0,1,4,5
+"2006-04-01","Dan Winship","Misto",0,1,4,5
+"2006-05-01","Dan Winship","Misto",0,1,4,5
+"2006-06-01","Dan Winship","Misto",0,1,4,5
+"2006-07-01","Dan Winship","Misto",0,1,4,5
+"2006-11-01","Dan Winship","Misto",0,1,4,5
+"2006-12-01","Dan Winship","Misto",0,1,4,5
+"2007-01-01","Dan Winship","Misto",0,1,4,5
+"2007-02-01","Dan Winship","Misto",0,1,4,5
+"2007-03-01","Dan Winship","Misto",0,1,4,5
+"2007-04-01","Dan Winship","Misto",0,1,4,5
+"2007-09-01","Dan Winship","Misto",0,1,4,5
+"2007-10-01","Dan Winship","Misto",0,1,4,5
+"2007-11-01","Dan Winship","Misto",0,1,4,5
+"2008-01-01","Dan Winship","Misto",0,1,4,5
+"2008-02-01","Dan Winship","Misto",0,1,4,5
+"2008-03-01","Dan Winship","Misto",0,1,4,5
+"2008-03-01","Xan Lopez","Generalista",0,2,4,6
+"2008-04-01","Dan Winship","Misto",0,2,4,6
+"2008-05-01","Dan Winship","Misto",0,2,4,6
+"2008-07-01","Dan Winship","Misto",0,2,4,6
+"2008-08-01","Dan Winship","Misto",0,2,4,6
+"2008-09-01","Dan Winship","Misto",0,2,4,6
+"2008-10-01","Dan Winship","Misto",0,2,4,6
+"2008-11-01","Dan Winship","Misto",0,2,4,6
+"2008-12-01","Dan Winship","Misto",0,2,4,6
+"2009-01-01","Dan Winship","Misto",0,2,4,6
+"2009-02-01","Dan Winship","Misto",0,2,4,6
+"2009-02-01","Xan Lopez","Generalista",0,2,4,6
+"2009-03-01","Dan Winship","Misto",0,2,4,6
+"2009-04-01","Dan Winship","Misto",0,2,4,6
+"2009-04-01","Pierre-Luc Beaudoin","Generalista",0,3,4,7
+"2009-05-01","Dan Winship","Misto",0,3,4,7
+"2009-05-01","Ross Burton","Generalista",0,4,4,8
+"2009-06-01","Dan Winship","Misto",0,4,4,8
+"2009-06-01","Gustavo Noronha Silva","Misto",0,4,5,9
+"2009-07-01","Dan Winship","Misto",0,4,5,9
+"2009-07-01","Gustavo Noronha Silva","Misto",0,4,5,9
+"2009-08-01","Dan Winship","Misto",0,4,5,9
+"2009-09-01","Dan Winship","Misto",0,4,5,9
+"2009-09-01","Xan Lopez","Generalista",0,5,5,10
+"2009-10-01","Alejandro G. Castro","Generalista",0,5,5,10
+"2009-10-01","Dan Winship","Misto",0,5,5,10
+"2009-11-01","Dan Winship","Misto",0,5,5,10
+"2009-12-01","Benjamin Otte","Generalista",0,6,5,11
+"2009-12-01","Dan Winship","Misto",0,6,5,11
+"2009-12-01","Gustavo Noronha Silva","Misto",0,6,5,11
+"2010-01-01","Dan Winship","Misto",0,6,5,11
+"2010-01-01","Xan Lopez","Generalista",0,6,5,11
+"2010-02-01","Dan Winship","Misto",0,6,5,11
+"2010-03-01","Dan Winship","Misto",0,6,5,11
+"2010-03-01","Gustavo Noronha Silva","Misto",0,7,5,12
+"2010-04-01","Andreas Rottmann","Generalista",0,7,5,12
+"2010-04-01","Dan Winship","Misto",0,7,5,12
+"2010-05-01","Dan Winship","Misto",0,7,5,12
+"2010-05-01","Gustavo Noronha Silva","Misto",0,7,5,12
+"2010-06-01","Dan Winship","Misto",0,7,5,12
+"2010-07-01","Dan Winship","Misto",0,7,5,12
+"2010-08-01","Dan Winship","Misto",0,7,5,12
+"2010-09-01","Dan Winship","Misto",0,7,5,12
+"2010-10-01","Dan Winship","Misto",0,7,5,12
+"2010-11-01","Dan Winship","Misto",0,7,5,12
+"2010-12-01","Dan Winship","Misto",0,7,5,12
+"2010-12-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-01-01","Dan Winship","Misto",0,8,5,13
+"2011-01-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-02-01","Dan Winship","Misto",0,8,5,13
+"2011-02-01","Gustavo Noronha Silva","Misto",0,8,5,13
+"2011-02-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-03-01","Dan Winship","Misto",0,8,5,13
+"2011-04-01","Dan Winship","Misto",0,8,5,13
+"2011-04-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-05-01","Dan Winship","Misto",0,8,5,13
+"2011-05-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-05-01","Xan Lopez","Generalista",0,8,5,13
+"2011-06-01","Dan Winship","Misto",0,8,5,13
+"2011-06-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-07-01","Dan Winship","Misto",0,8,5,13
+"2011-07-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-08-01","Dan Winship","Misto",0,8,5,13
+"2011-09-01","Dan Winship","Misto",0,8,5,13
+"2011-09-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-10-01","Dan Winship","Misto",0,8,5,13
+"2011-10-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2011-11-01","Dan Winship","Misto",0,8,5,13
+"2011-12-01","Dan Winship","Misto",0,8,5,13
+"2012-01-01","Dan Winship","Misto",0,8,5,13
+"2012-01-01","Sergio Villar Senin","Generalista",0,8,5,13
+"2012-02-01","Dan Winship","Misto",0,8,5,13
+"2012-03-01","Dan Winship","Misto",0,8,5,13
+"2012-03-01","Simon Mcvittie","Generalista",0,9,5,14
+"2012-04-01","Dan Winship","Misto",0,9,5,14
+"2012-04-01","Sergio Villar Senin","Misto",0,8,6,14
+"2012-05-01","Dan Winship","Misto",0,8,6,14
+"2012-06-01","Colin Walters","Misto",0,8,7,15
+"2012-06-01","Dan Winship","Misto",0,9,7,16
+"2012-06-01","Sergio Villar Senin","Misto",0,9,7,16
+"2012-07-01","Alban Browaeys","Generalista",0,9,7,16
+"2012-07-01","Carlos Garcia Campos","Generalista",0,11,7,18
+"2012-07-01","Dan Winship","Misto",0,11,7,18
+"2012-07-01","Pawel Forysiuk","Generalista",0,11,7,18
+"2012-07-01","Sergio Villar Senin","Misto",0,11,7,18
+"2012-08-01","Dan Winship","Misto",0,11,7,18
+"2012-08-01","Gustavo Noronha Silva","Misto",0,11,7,18
+"2012-08-01","Sergio Villar Senin","Misto",0,11,7,18
+"2012-09-01","Dan Winship","Misto",0,11,7,18
+"2012-09-01","Martin Robinson","Misto",0,11,8,19
+"2012-09-01","Sergio Villar Senin","Misto",0,11,8,19
+"2012-10-01","Dan Winship","Misto",0,11,8,19
+"2012-10-01","Gustavo Noronha Silva","Misto",0,11,8,19
+"2012-11-01","Dan Winship","Misto",0,11,8,19
+"2012-12-01","Dan Winship","Misto",0,11,8,19
+"2013-01-01","Dan Winship","Misto",0,11,8,19
+"2013-01-01","Sergio Villar Senin","Misto",0,11,8,19
+"2013-02-01","Dan Winship","Misto",0,11,8,19
+"2013-02-01","Sergio Villar Senin","Misto",0,11,8,19
+"2013-03-01","Dan Winship","Misto",0,11,8,19
+"2013-03-01","Sergio Villar Senin","Misto",0,11,8,19
+"2013-04-01","Dan Winship","Misto",0,11,8,19
+"2013-04-01","Sergio Villar Senin","Misto",0,11,8,19
+"2013-05-01","Dan Winship","Misto",0,11,8,19
+"2013-06-01","Dan Winship","Misto",0,11,8,19
+"2013-06-01","David Woodhouse","Generalista",0,12,8,20
+"2013-07-01","Dan Winship","Misto",0,12,8,20
+"2013-08-01","Dan Winship","Misto",0,12,8,20
+"2013-09-01","Dan Winship","Misto",0,12,8,20
+"2013-10-01","Dan Winship","Misto",0,12,8,20
+"2013-11-01","Dan Winship","Misto",0,12,8,20
+"2013-12-01","Dan Winship","Misto",0,12,8,20
+"2013-12-01","Gustavo Noronha Silva","Misto",0,12,8,20
+"2014-01-01","Dan Winship","Misto",0,12,8,20
+"2014-02-01","Dan Winship","Misto",0,12,8,20
+"2014-03-01","Dan Winship","Misto",0,12,8,20
+"2014-05-01","Dan Winship","Misto",0,12,8,20
+"2014-06-01","Dan Winship","Misto",0,12,8,20
+"2014-06-01","David Woodhouse","Generalista",0,12,8,20
+"2014-07-01","Dan Winship","Misto",0,12,8,20
+"2014-09-01","Carlos Garcia Campos","Generalista",0,12,8,20
+"2014-11-01","Dan Winship","Misto",0,12,8,20
+"2014-12-01","Dan Winship","Misto",0,12,8,20
+"2015-01-01","Dan Winship","Misto",0,12,8,20
+"2015-02-01","Carlos Garcia Campos","Misto",0,11,9,20
+"2015-02-01","Dan Winship","Misto",0,11,9,20
+"2015-03-01","Dan Winship","Misto",0,11,9,20
+"2015-05-01","Dan Winship","Misto",0,11,9,20
+"2015-07-01","Dan Winship","Misto",0,11,9,20
+"2015-07-01","Xavier Claessens","Misto",0,11,10,21
+"2015-08-01","Xavier Claessens","Misto",0,11,10,21
+"2015-09-01","Dan Winship","Misto",0,11,10,21
+"2015-09-01","Ignacio Casal Quinteiro","Misto",0,11,11,22
+"2015-10-01","Dan Winship","Misto",0,11,11,22
+"2015-10-01","Ignacio Casal Quinteiro","Misto",0,11,11,22
+"2016-01-01","Dan Winship","Misto",0,11,11,22
+"2016-03-01","Adrien Plazas","Misto",0,11,12,23
+"2016-03-01","Guido Guenther","Misto",0,11,13,24
+"2016-05-01","Dan Winship","Misto",0,11,13,24
+"2016-06-01","Dan Winship","Misto",0,11,13,24
+"2016-07-01","Dan Winship","Misto",0,11,13,24
+"2016-09-01","Dan Winship","Misto",0,11,13,24
+"2017-04-01","Dan Winship","Misto",0,11,13,24
+"2017-05-01","Dan Winship","Misto",0,11,13,24
+"2017-07-01","Dan Winship","Misto",0,11,13,24
+"2017-08-01","Dan Winship","Misto",0,11,13,24
+"2017-10-01","Tomas Popela","Especialista",1,11,13,25
+"2017-12-01","Italo Guerrieri","Generalista",1,12,13,26
+"2018-06-01","Claudio Saavedra","Generalista",1,13,13,27
+"2018-08-01","Claudio Saavedra","Generalista",1,13,13,27
+"2018-09-01","Claudio Saavedra","Misto",1,12,14,27
+"2018-12-01","Claudio Saavedra","Misto",1,12,14,27
+"2019-02-01","Patrick Griffis","Misto",1,12,15,28
+"2019-06-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2019-06-01","Claudio Saavedra","Misto",1,12,15,28
+"2019-06-01","Patrick Griffis","Misto",1,12,15,28
+"2019-07-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2019-08-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2019-08-01","Claudio Saavedra","Misto",1,12,15,28
+"2019-09-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2019-09-01","Claudio Saavedra","Misto",1,12,15,28
+"2019-11-01","Patrick Griffis","Misto",1,12,15,28
+"2020-01-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2020-01-01","Patrick Griffis","Misto",1,12,15,28
+"2020-02-01","Patrick Griffis","Misto",1,12,15,28
+"2020-03-01","Patrick Griffis","Misto",1,12,15,28
+"2020-07-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2020-07-01","Patrick Griffis","Misto",1,12,15,28
+"2020-08-01","Patrick Griffis","Misto",1,12,15,28
+"2020-09-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2020-09-01","Patrick Griffis","Misto",1,12,15,28
+"2020-10-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2020-10-01","Patrick Griffis","Misto",1,12,15,28
+"2020-11-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2020-11-01","Patrick Griffis","Misto",1,12,15,28
+"2020-12-01","Carlos Garcia Campos","Misto",1,12,15,28
+"2020-12-01","Patrick Griffis","Misto",NA,NA,NA,NA

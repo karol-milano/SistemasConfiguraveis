@@ -1,0 +1,268 @@
+"Desenvolvedor","Data","Classificacao_ownership","Major","Minor","Total","Perc_Major","Perc_Minor"
+"James","2005-09-01","Major",1,0,1,100,0
+"James","2005-10-01","Major",1,0,1,100,0
+"James","2005-11-01","Major",1,0,1,100,0
+"James","2005-12-01","Major",1,0,1,100,0
+"James","2006-01-01","Major",1,0,1,100,0
+"James","2006-02-01","Major",1,0,1,100,0
+"James","2006-04-01","Major",1,0,1,100,0
+"James","2006-06-01","Major",1,0,1,100,0
+"James","2006-07-01","Major",1,0,1,100,0
+"James","2006-09-01","Major",1,0,1,100,0
+"James","2006-11-01","Major",1,0,1,100,0
+"James","2007-02-01","Major",1,0,1,100,0
+"James","2007-03-01","Major",1,0,1,100,0
+"James","2007-04-01","Major",1,0,1,100,0
+"James","2007-06-01","Major",1,0,1,100,0
+"James","2007-08-01","Major",1,0,1,100,0
+"James","2007-10-01","Major",1,0,1,100,0
+"James","2008-01-01","Major",1,0,1,100,0
+"James","2008-02-01","Major",1,0,1,100,0
+"James","2008-05-01","Major",1,0,1,100,0
+"James","2008-06-01","Major",1,0,1,100,0
+"James","2008-07-01","Major",1,0,1,100,0
+"James","2008-08-01","Major",1,0,1,100,0
+"James","2008-09-01","Major",1,0,1,100,0
+"James","2008-10-01","Major",1,0,1,100,0
+"James","2008-11-01","Major",1,0,1,100,0
+"James","2008-12-01","Major",1,0,1,100,0
+"James","2009-01-01","Major",1,0,1,100,0
+"James","2009-04-01","Major",1,0,1,100,0
+"James","2009-05-01","Major",1,0,1,100,0
+"James","2009-06-01","Major",1,0,1,100,0
+"James","2009-08-01","Major",1,0,1,100,0
+"James","2009-09-01","Major",1,0,1,100,0
+"James","2009-10-01","Major",1,0,1,100,0
+"James","2009-11-01","Major",1,0,1,100,0
+"James","2009-12-01","Major",1,0,1,100,0
+"Gert Doering","2010-01-01","Major",2,0,2,100,0
+"James","2010-01-01","Major",2,0,2,100,0
+"Gert Doering","2010-02-01","Major",2,0,2,100,0
+"James","2010-02-01","Major",2,0,2,100,0
+"Gert Doering","2010-03-01","Major",2,0,2,100,0
+"James Yonan","2010-03-01","Major",4,0,4,100,0
+"David Sommerseth","2010-04-01","Major",4,0,4,100,0
+"James Yonan","2010-04-01","Major",4,0,4,100,0
+"James Yonan","2010-05-01","Major",4,0,4,100,0
+"James Yonan","2010-06-01","Major",4,0,4,100,0
+"David Sommerseth","2010-08-01","Major",4,0,4,100,0
+"Gert Doering","2010-08-01","Major",4,0,4,100,0
+"Gert Doering","2010-09-01","Major",4,0,4,100,0
+"Gert Doering","2010-10-01","Major",4,0,4,100,0
+"James Yonan","2010-10-01","Major",4,0,4,100,0
+"David Sommerseth","2010-11-01","Major",4,0,4,100,0
+"James Yonan","2010-11-01","Major",4,0,4,100,0
+"David Sommerseth","2010-12-01","Major",4,0,4,100,0
+"James Yonan","2010-12-01","Major",4,0,4,100,0
+"David Sommerseth","2011-01-01","Major",4,0,4,100,0
+"Gert Doering","2011-01-01","Major",4,0,4,100,0
+"James Yonan","2011-02-01","Major",4,0,4,100,0
+"James Yonan","2011-03-01","Major",4,0,4,100,0
+"James Yonan","2011-04-01","Major",4,0,4,100,0
+"Gert Doering","2011-05-01","Major",4,0,4,100,0
+"Adriaan De Jong","2011-06-01","Major",5,0,5,100,0
+"James Yonan","2011-06-01","Major",5,0,5,100,0
+"Adriaan De Jong","2011-07-01","Major",5,0,5,100,0
+"David Sommerseth","2011-07-01","Major",5,0,5,100,0
+"Adriaan De Jong","2011-08-01","Major",5,0,5,100,0
+"Gert Doering","2011-08-01","Major",5,0,5,100,0
+"James Yonan","2011-08-01","Major",5,0,5,100,0
+"Adriaan De Jong","2011-09-01","Major",5,0,5,100,0
+"Gert Doering","2011-09-01","Major",5,0,5,100,0
+"Adriaan De Jong","2011-10-01","Major",5,0,5,100,0
+"James Yonan","2011-10-01","Major",5,0,5,100,0
+"Gert Doering","2011-11-01","Major",5,0,5,100,0
+"David Sommerseth","2011-12-01","Major",5,0,5,100,0
+"Gert Doering","2011-12-01","Major",5,0,5,100,0
+"David Sommerseth","2012-01-01","Major",5,0,5,100,0
+"Gert Doering","2012-01-01","Major",5,0,5,100,0
+"Adriaan De Jong","2012-02-01","Major",5,0,5,100,0
+"Alon Bar-Lev","2012-02-01","Major",7,0,7,100,0
+"David Sommerseth","2012-02-01","Major",7,0,7,100,0
+"Gert Doering","2012-02-01","Major",7,0,7,100,0
+"Heiko Hund","2012-02-01","Major",7,0,7,100,0
+"Adriaan De Jong","2012-04-01","Major",7,0,7,100,0
+"Gert Doering","2012-06-01","Major",7,0,7,100,0
+"Arne Schwabe","2012-08-01","Major",8,0,8,100,0
+"Gert Doering","2012-08-01","Major",8,0,8,100,0
+"Gert Doering","2012-09-01","Major",8,0,8,100,0
+"James Yonan","2012-09-01","Major",8,0,8,100,0
+"David Sommerseth","2012-10-01","Major",8,0,8,100,0
+"David Sommerseth","2012-11-01","Major",8,0,8,100,0
+"Gert Doering","2013-03-01","Major",8,0,8,100,0
+"Steffan Karger","2013-03-01","Major",9,0,9,100,0
+"Arne Schwabe","2013-04-01","Major",9,0,9,100,0
+"Steffan Karger","2013-04-01","Major",9,0,9,100,0
+"Arne Schwabe","2013-05-01","Major",9,0,9,100,0
+"Gert Doering","2013-05-01","Major",9,0,9,100,0
+"Steffan Karger","2013-05-01","Major",9,0,9,100,0
+"David Sommerseth","2013-07-01","Major",9,0,9,100,0
+"Arne Schwabe","2013-11-01","Major",9,0,9,100,0
+"Gert Doering","2014-01-01","Major",9,0,9,100,0
+"Steffan Karger","2014-01-01","Major",9,0,9,100,0
+"Steffan Karger","2014-02-01","Major",9,0,9,100,0
+"Steffan Karger","2014-03-01","Major",9,0,9,100,0
+"Gert Doering","2014-04-01","Major",9,0,9,100,0
+"Steffan Karger","2014-04-01","Major",9,0,9,100,0
+"Steffan Karger","2014-05-01","Major",9,0,9,100,0
+"Gert Doering","2014-06-01","Major",9,0,9,100,0
+"Steffan Karger","2014-06-01","Major",9,0,9,100,0
+"Steffan Karger","2014-07-01","Major",9,0,9,100,0
+"Steffan Karger","2014-08-01","Major",9,0,9,100,0
+"David Sommerseth","2014-09-01","Major",9,0,9,100,0
+"Steffan Karger","2014-09-01","Major",9,0,9,100,0
+"David Sommerseth","2014-10-01","Major",9,0,9,100,0
+"Steffan Karger","2014-10-01","Major",9,0,9,100,0
+"David Sommerseth","2014-11-01","Major",9,0,9,100,0
+"Lev Stipakov","2014-11-01","Major",10,0,10,100,0
+"Steffan Karger","2014-11-01","Major",10,0,10,100,0
+"David Sommerseth","2014-12-01","Major",10,0,10,100,0
+"Gert Doering","2014-12-01","Major",10,0,10,100,0
+"Lev Stipakov","2014-12-01","Major",10,0,10,100,0
+"Steffan Karger","2015-01-01","Major",10,0,10,100,0
+"Lev Stipakov","2015-02-01","Major",10,0,10,100,0
+"Steffan Karger","2015-02-01","Major",11,0,11,100,0
+"Vasily Kulikov","2015-02-01","Major",11,0,11,100,0
+"Steffan Karger","2015-03-01","Major",11,0,11,100,0
+"Daniel Kubec","2015-04-01","Major",12,0,12,100,0
+"Gert Doering","2015-04-01","Major",12,0,12,100,0
+"Gert Doering","2015-05-01","Major",12,0,12,100,0
+"Steffan Karger","2015-05-01","Major",12,0,12,100,0
+"Steffan Karger","2015-06-01","Major",12,0,12,100,0
+"David Sommerseth","2015-07-01","Major",12,0,12,100,0
+"Steffan Karger","2015-07-01","Major",12,0,12,100,0
+"Arne Schwabe","2015-09-01","Major",12,0,12,100,0
+"Gert Doering","2015-09-01","Major",12,0,12,100,0
+"Steffan Karger","2015-09-01","Major",12,0,12,100,0
+"Lev Stipakov","2015-10-01","Major",12,0,12,100,0
+"Steffan Karger","2015-10-01","Major",12,0,12,100,0
+"Arne Schwabe","2015-11-01","Major",12,0,12,100,0
+"Gert Doering","2015-11-01","Major",12,0,12,100,0
+"Steffan Karger","2015-11-01","Major",12,0,12,100,0
+"Steffan Karger","2015-12-01","Major",12,0,12,100,0
+"Heiko Hund","2016-01-01","Major",12,0,12,100,0
+"Steffan Karger","2016-01-01","Major",12,0,12,100,0
+"Arne Schwabe","2016-02-01","Major",12,0,12,100,0
+"Selva Nair","2016-02-01","Major",13,0,13,100,0
+"Steffan Karger","2016-02-01","Major",13,0,13,100,0
+"Selva Nair","2016-03-01","Major",13,0,13,100,0
+"Steffan Karger","2016-03-01","Major",13,0,13,100,0
+"Steffan Karger","2016-04-01","Major",13,0,13,100,0
+"Ivo Manca","2016-05-01","Major",14,0,14,100,0
+"Jens Neuhalfen","2016-05-01","Major",15,0,15,100,0
+"Selva Nair","2016-05-01","Major",15,0,15,100,0
+"Steffan Karger","2016-05-01","Major",15,0,15,100,0
+"Gert Doering","2016-06-01","Major",15,0,15,100,0
+"Selva Nair","2016-06-01","Major",15,0,15,100,0
+"Steffan Karger","2016-06-01","Major",15,0,15,100,0
+"David Sommerseth","2016-07-01","Major",15,0,15,100,0
+"Steffan Karger","2016-07-01","Major",15,0,15,100,0
+"David Sommerseth","2016-08-01","Major",15,0,15,100,0
+"Steffan Karger","2016-08-01","Major",15,0,15,100,0
+"Arne Schwabe","2016-09-01","Major",15,0,15,100,0
+"Gert Doering","2016-09-01","Major",15,0,15,100,0
+"Lev Stipakov","2016-09-01","Major",15,0,15,100,0
+"Steffan Karger","2016-09-01","Major",15,0,15,100,0
+"Arne Schwabe","2016-10-01","Major",15,0,15,100,0
+"Heiko Hund","2016-10-01","Major",15,0,15,100,0
+"Steffan Karger","2016-10-01","Major",15,0,15,100,0
+"Arne Schwabe","2016-11-01","Major",15,0,15,100,0
+"David Sommerseth","2016-11-01","Major",15,0,15,100,0
+"Gert Doering","2016-11-01","Major",15,0,15,100,0
+"Selva Nair","2016-11-01","Major",15,0,15,100,0
+"Steffan Karger","2016-11-01","Major",15,0,15,100,0
+"David Sommerseth","2016-12-01","Major",15,0,15,100,0
+"Steffan Karger","2016-12-01","Major",15,0,15,100,0
+"Selva Nair","2017-01-01","Major",15,0,15,100,0
+"Steffan Karger","2017-01-01","Major",15,0,15,100,0
+"Gert Doering","2017-02-01","Major",15,0,15,100,0
+"Simon Matter","2017-02-01","Major",16,0,16,100,0
+"David Sommerseth","2017-03-01","Major",16,0,16,100,0
+"Gert Doering","2017-03-01","Major",16,0,16,100,0
+"Steffan Karger","2017-03-01","Major",16,0,16,100,0
+"David Sommerseth","2017-04-01","Major",16,0,16,100,0
+"Steffan Karger","2017-05-01","Major",16,0,16,100,0
+"Arne Schwabe","2017-06-01","Major",16,0,16,100,0
+"Emmanuel Deloget","2017-06-01","Major",18,0,18,100,0
+"Steffan Karger","2017-06-01","Major",18,0,18,100,0
+"Antonio Quartulli","2017-07-01","Major",18,0,18,100,0
+"David Sommerseth","2017-07-01","Major",18,0,18,100,0
+"Steffan Karger","2017-07-01","Major",18,0,18,100,0
+"Antonio Quartulli","2017-08-01","Major",18,0,18,100,0
+"Steffan Karger","2017-08-01","Major",18,0,18,100,0
+"David Sommerseth","2017-09-01","Major",18,0,18,100,0
+"Selva Nair","2017-10-01","Major",18,0,18,100,0
+"Selva Nair","2017-11-01","Major",18,0,18,100,0
+"Steffan Karger","2017-11-01","Major",18,0,18,100,0
+"Selva Nair","2017-12-01","Major",18,0,18,100,0
+"Steffan Karger","2017-12-01","Major",18,0,18,100,0
+"David Sommerseth","2018-01-01","Major",18,0,18,100,0
+"Selva Nair","2018-01-01","Major",18,0,18,100,0
+"Steffan Karger","2018-01-01","Major",18,0,18,100,0
+"Gert Doering","2018-02-01","Major",18,0,18,100,0
+"Selva Nair","2018-02-01","Major",18,0,18,100,0
+"Steffan Karger","2018-02-01","Major",18,0,18,100,0
+"Selva Nair","2018-04-01","Major",18,0,18,100,0
+"Antonio Quartulli","2018-06-01","Major",18,0,18,100,0
+"Steffan Karger","2018-07-01","Major",18,0,18,100,0
+"Steffan Karger","2018-08-01","Major",18,0,18,100,0
+"Steffan Karger","2018-09-01","Major",18,0,18,100,0
+"Arne Schwabe","2018-10-01","Major",18,0,18,100,0
+"David Sommerseth","2018-10-01","Major",19,0,19,100,0
+"Lev Stipakov","2018-10-01","Major",19,0,19,100,0
+"Selva Nair","2018-10-01","Major",19,0,19,100,0
+"Simon Rozman","2018-10-01","Major",19,0,19,100,0
+"Steffan Karger","2018-10-01","Major",19,0,19,100,0
+"Gert Doering","2018-11-01","Major",19,0,19,100,0
+"Simon Rozman","2018-11-01","Major",19,0,19,100,0
+"Antonio Quartulli","2018-12-01","Major",19,0,19,100,0
+"Arne Schwabe","2018-12-01","Major",19,0,19,100,0
+"Gert Doering","2018-12-01","Major",19,0,19,100,0
+"Selva Nair","2018-12-01","Major",19,0,19,100,0
+"Simon Rozman","2018-12-01","Major",19,0,19,100,0
+"Arne Schwabe","2019-01-01","Major",19,0,19,100,0
+"Jonathan Tooker","2019-01-01","Major",20,0,20,100,0
+"Selva Nair","2019-01-01","Major",20,0,20,100,0
+"Steffan Karger","2019-01-01","Major",20,0,20,100,0
+"Simon Rozman","2019-02-01","Major",20,0,20,100,0
+"Arne Schwabe","2019-05-01","Major",20,0,20,100,0
+"Antonio Quartulli","2019-06-01","Major",20,0,20,100,0
+"Antonio Quartulli","2019-07-01","Major",20,0,20,100,0
+"Selva Nair","2019-07-01","Major",20,0,20,100,0
+"Antonio Quartulli","2019-08-01","Major",20,0,20,100,0
+"Arne Schwabe","2019-09-01","Major",20,0,20,100,0
+"Lev Stipakov","2019-09-01","Major",20,0,20,100,0
+"Antonio Quartulli","2019-10-01","Major",20,0,20,100,0
+"Gert Doering","2019-10-01","Major",20,0,20,100,0
+"Antonio Quartulli","2019-11-01","Major",20,0,20,100,0
+"Arne Schwabe","2019-11-01","Major",20,0,20,100,0
+"Steffan Karger","2019-11-01","Major",20,0,20,100,0
+"Arne Schwabe","2019-12-01","Major",20,0,20,100,0
+"Lev Stipakov","2019-12-01","Major",20,0,20,100,0
+"Steffan Karger","2020-01-01","Major",20,0,20,100,0
+"Arne Schwabe","2020-02-01","Major",20,0,20,100,0
+"David Sommerseth","2020-02-01","Major",20,0,20,100,0
+"Heiko Hund","2020-02-01","Major",20,0,20,100,0
+"Selva Nair","2020-02-01","Major",20,0,20,100,0
+"Arne Schwabe","2020-03-01","Major",20,0,20,100,0
+"Simon Rozman","2020-03-01","Major",20,0,20,100,0
+"Antonio Quartulli","2020-04-01","Major",20,0,20,100,0
+"Arne Schwabe","2020-04-01","Major",20,0,20,100,0
+"Gert Doering","2020-04-01","Major",20,0,20,100,0
+"Antonio Quartulli","2020-05-01","Major",20,0,20,100,0
+"Arne Schwabe","2020-05-01","Major",20,0,20,100,0
+"Antonio Quartulli","2020-06-01","Major",20,0,20,100,0
+"Arne Schwabe","2020-06-01","Major",21,0,21,100,0
+"James Bottomley","2020-06-01","Major",21,0,21,100,0
+"Arne Schwabe","2020-07-01","Major",21,0,21,100,0
+"Gert Doering","2020-07-01","Major",21,0,21,100,0
+"Lev Stipakov","2020-07-01","Major",21,0,21,100,0
+"Steffan Karger","2020-07-01","Major",21,0,21,100,0
+"Arne Schwabe","2020-08-01","Major",21,0,21,100,0
+"Gert Doering","2020-08-01","Major",21,0,21,100,0
+"Gert Doering","2020-09-01","Major",21,0,21,100,0
+"Selva Nair","2020-09-01","Major",21,0,21,100,0
+"Arne Schwabe","2020-10-01","Major",21,0,21,100,0
+"Gert Doering","2020-10-01","Major",21,0,21,100,0
+"Steffan Karger","2020-10-01","Major",21,0,21,100,0
+"Arne Schwabe","2020-12-01","Major",21,0,21,100,0

@@ -1,0 +1,13 @@
+projeto,data,S,p-value,hipotese,rho,data,S,p-value,hipotese,rho
+Bison,ownership_geral x ownership_rlm,0,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,255.32,= 8.221e-11,alternative hypothesis: true rho is not equal to 0,0.9127121
+Collectd,ownership_geral x ownership_rlm,0,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,12011,= 4.601e-13,alternative hypothesis: true rho is not equal to 0,0.7492843
+Gnuplot,ownership_geral x ownership_rlm,8.0304,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,0.9999735,ownership_geral x ownership_arquivo,145202,= 8.211e-10,alternative hypothesis: true rho is not equal to 0,0.5201852
+LibPng,ownership_geral x ownership_rlm,0,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,386.64,= 1.739e-05,alternative hypothesis: true rho is not equal to 0,0.7816801
+Libssh,ownership_geral x ownership_rlm,1.6892e-11,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,30570,= 9.203e-09,alternative hypothesis: true rho is not equal to 0,0.5981715
+Lighttpd,ownership_geral x ownership_rlm,3.2274e-13,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,153.71,= 1.21e-05,alternative hypothesis: true rho is not equal to 0,0.8413676
+M4,ownership_geral x ownership_rlm,4.4409e-15,= 0.01667,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,0.50641,= 0.004818,alternative hypothesis: true rho is not equal to 0,0.9746794
+OpenSC,ownership_geral x ownership_rlm,13.34,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,0.9999415,ownership_geral x ownership_arquivo,67987,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,0.7017054
+Openvpn,ownership_geral x ownership_rlm,0.55213,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,0.999996,ownership_geral x ownership_arquivo,43831,= 3.24e-14,alternative hypothesis: true rho is not equal to 0,0.6833345
+Totem,ownership_geral x ownership_rlm,3.1508e-12,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,4079,= 5.786e-08,alternative hypothesis: true rho is not equal to 0,0.7125408
+Uwsgi,ownership_geral x ownership_rlm,14.963,< 2.2e-16,alternative hypothesis: true rho is not equal to 0,0.9998768,ownership_geral x ownership_arquivo,41678,= 2.047e-12,alternative hypothesis: true rho is not equal to 0,0.6569268
+Xterm,ownership_geral x ownership_rlm,0,= 0.08333,alternative hypothesis: true rho is not equal to 0,1,ownership_geral x ownership_arquivo,2,= 0.3333,alternative hypothesis: true rho is not equal to 0,0.8 

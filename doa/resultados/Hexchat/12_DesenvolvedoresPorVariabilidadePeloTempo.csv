@@ -1,0 +1,414 @@
+"Variabilidades","Data","EhAutor","Desenvolvedor"
+"","2010-04-01","Autor",1
+"","2010-05-01","Autor",1
+"","2010-06-01","Autor",1
+"","2010-08-01","Autor",1
+"","2010-09-01","Autor",1
+"","2010-10-01","Autor",1
+"","2010-11-01","Autor",1
+"","2010-12-01","Autor",1
+"","2011-01-01","Autor",1
+"","2011-02-01","Autor",1
+"","2011-04-01","Autor",1
+"","2011-05-01","Autor",1
+"","2011-06-01","Autor",1
+"","2011-07-01","Autor",1
+"","2011-08-01","Autor",1
+"","2011-11-01","Autor",1
+"","2011-12-01","Autor",1
+"","2012-01-01","Autor",1
+"","2012-02-01","Autor",1
+"","2012-03-01","Autor",1
+"","2012-05-01","Autor",1
+"","2012-06-01","Autor",1
+"","2012-06-01","Colaborador",1
+"","2012-07-01","Autor",1
+"","2012-07-01","Colaborador",2
+"","2012-08-01","Colaborador",2
+"","2012-09-01","Autor",1
+"","2012-09-01","Colaborador",2
+"","2012-10-01","Autor",1
+"","2012-10-01","Colaborador",3
+"","2012-11-01","Autor",1
+"","2012-11-01","Colaborador",3
+"","2012-12-01","Colaborador",1
+"","2013-01-01","Colaborador",2
+"","2013-02-01","Colaborador",2
+"","2013-03-01","Colaborador",4
+"","2013-04-01","Autor",1
+"","2013-04-01","Colaborador",4
+"","2013-05-01","Colaborador",3
+"","2013-06-01","Colaborador",3
+"","2013-07-01","Colaborador",2
+"","2013-08-01","Colaborador",2
+"","2013-09-01","Colaborador",1
+"","2013-10-01","Colaborador",3
+"","2013-11-01","Colaborador",2
+"","2013-12-01","Colaborador",1
+"","2014-01-01","Colaborador",2
+"","2014-02-01","Colaborador",2
+"","2014-03-01","Colaborador",2
+"","2014-04-01","Colaborador",3
+"","2014-05-01","Colaborador",3
+"","2014-06-01","Autor",1
+"","2014-06-01","Colaborador",3
+"","2014-07-01","Colaborador",1
+"","2014-09-01","Colaborador",1
+"","2014-10-01","Colaborador",1
+"","2014-11-01","Colaborador",1
+"","2014-12-01","Colaborador",2
+"","2015-01-01","Autor",1
+"","2015-01-01","Colaborador",2
+"","2015-02-01","Autor",3
+"","2015-02-01","Colaborador",2
+"","2015-03-01","Colaborador",1
+"","2015-04-01","Colaborador",1
+"","2015-05-01","Colaborador",2
+"","2015-08-01","Colaborador",1
+"","2015-09-01","Colaborador",1
+"","2015-10-01","Autor",1
+"","2015-10-01","Colaborador",1
+"","2016-01-01","Colaborador",1
+"","2016-02-01","Colaborador",1
+"","2016-03-01","Colaborador",1
+"","2016-04-01","Colaborador",2
+"","2016-06-01","Colaborador",1
+"","2016-07-01","Colaborador",2
+"","2016-08-01","Colaborador",1
+"","2016-09-01","Colaborador",1
+"","2016-10-01","Autor",1
+"","2016-10-01","Colaborador",1
+"","2016-11-01","Colaborador",1
+"","2016-12-01","Colaborador",1
+"","2017-01-01","Colaborador",1
+"","2017-02-01","Colaborador",1
+"","2017-04-01","Colaborador",1
+"","2017-05-01","Colaborador",1
+"","2017-06-01","Colaborador",1
+"","2017-07-01","Colaborador",1
+"","2017-08-01","Colaborador",1
+"","2017-09-01","Colaborador",1
+"","2017-10-01","Colaborador",1
+"","2017-11-01","Colaborador",1
+"","2017-12-01","Colaborador",1
+"","2018-01-01","Colaborador",1
+"","2018-02-01","Colaborador",1
+"","2018-03-01","Colaborador",1
+"","2018-09-01","Colaborador",1
+"","2019-11-01","Colaborador",1
+"","2019-12-01","Colaborador",1
+"","2020-05-01","Colaborador",1
+"","2020-07-01","Autor",1
+"","2020-09-01","Colaborador",1
+"__alpha__","2012-10-01","Autor",1
+"__alpha__","2016-03-01","Colaborador",1
+"__APPLE__","2011-02-01","Autor",1
+"__APPLE__","2014-01-01","Colaborador",1
+"__APPLE__","2014-05-01","Colaborador",1
+"__APPLE__","2014-09-01","Colaborador",1
+"__APPLE__","2017-11-01","Colaborador",1
+"__EMX__","2011-02-01","Autor",1
+"__EMX__","2013-04-01","Colaborador",1
+"__EMX__						  /* if os/2 */","2011-02-01","Autor",1
+"__EMX__ /* os/2 */","2010-04-01","Autor",1
+"__EMX__ /* os/2 */","2010-09-01","Autor",1
+"__EMX__ /* os/2 */","2011-02-01","Autor",1
+"__FreeBSD__","2016-12-01","Colaborador",1
+"__ia64__","2012-10-01","Autor",1
+"__ia64__","2016-03-01","Colaborador",1
+"__parisc__","2012-10-01","Autor",1
+"__parisc__","2016-03-01","Colaborador",1
+"__powerpc__","2012-10-01","Autor",1
+"__powerpc__","2016-03-01","Colaborador",1
+"__sparc__","2012-10-01","Autor",1
+"__sparc__","2015-02-01","Autor",1
+"__sparc__","2015-02-01","Colaborador",1
+"__sparc__","2016-03-01","Colaborador",1
+"_DEBUG","2011-08-01","Autor",1
+"_DEBUG","2013-04-01","Colaborador",1
+"_MSC_VER","2011-11-01","Autor",1
+"_WIN32","2010-04-01","Autor",1
+"_WIN32","2010-08-01","Autor",1
+"_WIN32","2010-09-01","Autor",1
+"_WIN32","2011-02-01","Autor",1
+"_WIN32","2011-08-01","Autor",1
+"_WIN32","2013-04-01","Colaborador",1
+"_WIN32 && ! DEBUG","2011-08-01","Autor",1
+"_WIN64","2010-04-01","Autor",1
+"_WIN64","2011-02-01","Autor",1
+"_WIN64","2012-06-01","Autor",1
+"_WIN64","2015-01-01","Autor",1
+"_WIN64","2015-02-01","Autor",1
+"_WIN64 /* use this approach, the wProcessorArchitecture method always returns 0 (=x86) for plugins for some reason */","2011-11-01","Autor",1
+"_WIN64 /* use this approach, the wProcessorArchitecture method always returns 0 (=x86) for some reason */","2011-11-01","Autor",1
+"!( (_WIN32) || (LXC_XCHAT_GETTEXT) )","2010-08-01","Autor",1
+"!( (_WIN32) || (LXC_XCHAT_GETTEXT) )","2011-02-01","Autor",1
+"!( (_WIN32) || (LXC_XCHAT_GETTEXT) )","2013-04-01","Colaborador",1
+"!(USE_XLIB) && !(WIN32)","2011-02-01","Autor",1
+"!(USE_XLIB) && !(WIN32)","2013-09-01","Colaborador",1
+"(__FreeBSD__) ||  (__APPLE__)","2016-12-01","Colaborador",1
+"(__hpux)","2011-02-01","Autor",1
+"(__hpux)","2013-08-01","Colaborador",1
+"(__i386__) || (__x86_64__)","2012-10-01","Autor",1
+"(__i386__) || (__x86_64__)","2016-03-01","Colaborador",1
+"(__linux__) ||  (__CYGWIN__)","2016-12-01","Colaborador",1
+"(__linux__) ||  (__FreeBSD__) ||  (__APPLE__) ||  (__CYGWIN__)","2016-12-01","Colaborador",1
+"(__MINGW64__) || (__MINGW32__)","2018-03-01","Colaborador",1
+"(__powerpc__)","2016-03-01","Colaborador",1
+"(_MSC_VER) && _MSC_VER >= 1400","2011-01-01","Autor",1
+"(_MSC_VER) && _MSC_VER >= 1400","2011-02-01","Autor",1
+"(_WIN32) || (LXC_XCHAT_GETTEXT)","2010-08-01","Autor",1
+"(_WIN32) || (LXC_XCHAT_GETTEXT)","2011-02-01","Autor",1
+"(_WIN32) || (LXC_XCHAT_GETTEXT)","2013-04-01","Colaborador",1
+"(ENABLE_NLS) &&  (HAVE_ISO_CODES)","2011-08-01","Autor",1
+"(GTK_WIDGET_HAS_FOCUS)","2011-02-01","Autor",1
+"(GTK_WIDGET_HAS_FOCUS)","2013-05-01","Colaborador",1
+"(GTK_WIDGET_VISIBLE)","2011-02-01","Autor",1
+"(GTK_WIDGET_VISIBLE)","2013-05-01","Colaborador",1
+"(LUA_VERSION_NUM) && (LUA_VERSION_NUM >= 501)","2010-08-01","Autor",1
+"(LUA_VERSION_NUM) && (LUA_VERSION_NUM >= 501)","2011-02-01","Autor",1
+"(LUA_VERSION_NUM) && (LUA_VERSION_NUM >= 501)","2013-04-01","Colaborador",1
+"(USE_GTKSPELL) && !(WIN32)","2011-02-01","Autor",1
+"(USE_GTKSPELL) || (USE_LIBSEXY)","2011-02-01","Autor",1
+"(USE_GTKSPELL) || (USE_LIBSEXY)","2011-12-01","Autor",1
+"(USE_GTKSPELL) || (USE_LIBSEXY)","2013-10-01","Colaborador",1
+"(USE_GTKSPELL)/* && !(WIN32)","2011-12-01","Autor",1
+"(USE_GTKSPELL)/* && !(WIN32) */","2011-12-01","Autor",1
+"(USE_GTKSPELL)/* && !(WIN32) */","2013-10-01","Colaborador",1
+"(USE_IPV6) ||  (WIN32)","2011-02-01","Autor",1
+"(USE_IPV6) ||  (WIN32)","2014-12-01","Colaborador",1
+"(USE_XLIB) || (WIN32)","2011-02-01","Autor",1
+"(USE_XLIB) || (WIN32)","2012-10-01","Colaborador",1
+"(USE_XLIB) || (WIN32)","2013-09-01","Colaborador",1
+"(USING_FREEBSD) ||  (__APPLE__)","2011-02-01","Autor",1
+"(USING_FREEBSD) ||  (__APPLE__)","2016-12-01","Colaborador",1
+"(USING_LINUX) ||  (__CYGWIN__)","2016-12-01","Colaborador",1
+"(USING_LINUX) ||  (USING_FREEBSD) ||  (__APPLE__)","2011-02-01","Autor",1
+"(USING_LINUX) ||  (USING_FREEBSD) ||  (__APPLE__) ||  (__CYGWIN__)","2016-12-01","Colaborador",1
+"(WIN32) && (!(__MINGW32__) && !(__MINGW64__))","2018-03-01","Colaborador",1
+"(WIN32) ||  (__APPLE__)","2014-01-01","Colaborador",1
+"(WIN32) || (USE_XLIB)","2011-02-01","Autor",1
+"COLOR_HILIGHT","2011-02-01","Autor",1
+"COLOR_HILIGHT","2013-09-01","Colaborador",1
+"CUSTOM_LIST","2011-02-01","Autor",1
+"DEBUG","2010-08-01","Autor",1
+"DEBUG","2011-02-01","Autor",1
+"DEBUG","2013-04-01","Colaborador",1
+"DEBUG_MSPROXY","2011-02-01","Autor",1
+"DEBUG_MSPROXY","2014-12-01","Colaborador",1
+"defined __APPLE__","2012-10-01","Colaborador",1
+"defined __APPLE__","2014-09-01","Colaborador",1
+"defined( __alpha__)","2016-03-01","Colaborador",1
+"defined(__APPLE__)","2014-09-01","Colaborador",1
+"defined(__ia64__)","2016-03-01","Colaborador",1
+"defined(__parisc__)","2016-03-01","Colaborador",1
+"defined(__powerpc__)","2016-03-01","Colaborador",1
+"defined(__sparc__)","2016-03-01","Colaborador",1
+"defined(LIBNOTIFY)","2011-02-01","Autor",1
+"defined(LIBNOTIFY)","2011-04-01","Autor",1
+"defined(USE_LIBNOTIFY)","2011-04-01","Autor",1
+"ENABLE_NLS","2011-02-01","Autor",1
+"ENABLE_NLS","2012-06-01","Autor",1
+"G_ENABLE_DEBUG","2011-08-01","Autor",1
+"G_OS_UNIX","2013-03-01","Colaborador",1
+"G_OS_UNIX","2017-08-01","Colaborador",1
+"G_OS_UNIX","2017-11-01","Colaborador",1
+"G_OS_WIN32","2011-02-01","Autor",1
+"G_OS_WIN32","2016-04-01","Colaborador",1
+"G_OS_WIN32","2017-11-01","Colaborador",1
+"G_OS_WIN32","2018-03-01","Colaborador",1
+"G_OS_WIN32 /* simple migration we will keep for a short while */","2013-03-01","Colaborador",1
+"GDK_WINDOWING_X11","2014-01-01","Colaborador",1
+"GDK_WINDOWING_X11","2017-08-01","Colaborador",1
+"GTK_STOCK_MEDIA_PLAY","2011-02-01","Autor",1
+"HAVE_ASN1_STRING_GET0_DATA","2017-06-01","Colaborador",1
+"HAVE_CONFIG_H","2011-02-01","Autor",1
+"HAVE_CONFIG_H","2011-08-01","Autor",1
+"HAVE_DH_GET0_KEY","2016-12-01","Colaborador",1
+"HAVE_DH_SET0_KEY","2016-12-01","Colaborador",1
+"HAVE_DH_SET0_KEY","2018-02-01","Colaborador",1
+"HAVE_DH_SET0_PQG","2016-12-01","Colaborador",1
+"HAVE_DIRECT_H","2011-08-01","Autor",1
+"HAVE_ERR_REMOVE_THREAD_STATE","2017-06-01","Colaborador",1
+"HAVE_GTK_MAC","2014-05-01","Colaborador",1
+"HAVE_GTK_MAC /* Added to app menu, see below */","2014-05-01","Colaborador",1
+"HAVE_ISO_CODES","2011-08-01","Autor",1
+"HAVE_ISO_CODES","2013-10-01","Colaborador",1
+"HAVE_ISO_CODES /* Defined with static spelling */","2013-10-01","Colaborador",1
+"HAVE_LIBPCI","2015-02-01","Autor",1
+"HAVE_LIBPCI","2017-11-01","Colaborador",1
+"HAVE_MEMRCHR","2011-02-01","Autor",1
+"HAVE_SNPRINTF","2011-02-01","Autor",1
+"HAVE_SNPRINTF","2013-03-01","Colaborador",1
+"HAVE_SNPRINTF","2014-09-01","Colaborador",1
+"HAVE_SNPRINTF","2014-12-01","Colaborador",1
+"HAVE_STRINGS_H","2011-02-01","Autor",1
+"HAVE_UNISTD_H","2011-08-01","Autor",1
+"HEXCHAT","2012-10-01","Colaborador",1
+"HEXCHAT","2013-09-01","Colaborador",1
+"HEXCHAT	/* HexChat has this in util.c */","2012-10-01","Colaborador",1
+"HEXCHAT	/* HexChat has this in util.c */","2013-09-01","Colaborador",1
+"IPV6","2010-04-01","Autor",1
+"IPV6","2010-09-01","Autor",1
+"IS_PY3K","2013-05-01","Colaborador",2
+"ITALIC","2011-02-01","Autor",1
+"ITALIC","2013-09-01","Colaborador",1
+"LIBNOTIFY","2011-02-01","Autor",1
+"LIBNOTIFY","2011-04-01","Autor",1
+"LOOKUPD","2011-02-01","Autor",1
+"LOOKUPD","2014-12-01","Colaborador",1
+"LOOKUPD	/* See note about lookupd above the IPv4 version of net_resolve. */","2011-02-01","Autor",1
+"MOTION_MONITOR","2011-02-01","Autor",1
+"MOTION_MONITOR","2013-09-01","Colaborador",1
+"NOTIFY_CHECK_VERSION","2011-04-01","Autor",1
+"OLD_PERL","2011-02-01","Autor",1
+"PATH_MAX","2011-02-01","Autor",1
+"PATH_MAX","2014-06-01","Colaborador",1
+"PATH_MAX /* hurd */","2010-08-01","Autor",1
+"PATH_MAX /* hurd */","2011-02-01","Autor",1
+"PATH_MAX /* hurd */","2013-04-01","Colaborador",1
+"PERL_DLL","2011-02-01","Autor",1
+"PERL_REQUIRED_VERSION","2011-02-01","Autor",1
+"PLUGIN_HEXCHAT_FISHLIM_TEST_H","2020-07-01","Autor",1
+"RTLD_GLOBAL","2011-02-01","Autor",1
+"RTLD_GLOBAL","2014-06-01","Colaborador",1
+"RTLD_NOW","2011-02-01","Autor",1
+"RTLD_NOW","2014-06-01","Colaborador",1
+"SCROLL_HACK","2011-02-01","Autor",1
+"SCROLL_HACK","2013-09-01","Colaborador",1
+"SMOOTH_SCROLL","2011-02-01","Autor",1
+"SMOOTH_SCROLL","2013-09-01","Colaborador",1
+"snprintf","2011-01-01","Autor",1
+"snprintf","2011-02-01","Autor",1
+"SOCKS","2011-02-01","Autor",1
+"SOCKS","2012-10-01","Colaborador",1
+"SOCKS","2014-12-01","Colaborador",1
+"SSL_OP_NO_COMPRESSION","2014-11-01","Colaborador",1
+"SSL_OP_SINGLE_ECDH_USE","2014-11-01","Colaborador",1
+"stat64","2011-01-01","Autor",1
+"stat64","2011-02-01","Autor",1
+"STATIC","2010-04-01","Autor",1
+"STATIC","2010-09-01","Autor",1
+"STATIC","2011-02-01","Autor",1
+"UNICODE","2010-04-01","Autor",1
+"UNICODE","2011-02-01","Autor",1
+"UNICODE","2012-10-01","Autor",1
+"UNICODE","2012-10-01","Colaborador",1
+"USE_DB","2011-02-01","Autor",1
+"USE_DB","2013-09-01","Colaborador",1
+"USE_DBUS","2011-02-01","Autor",1
+"USE_DBUS","2012-10-01","Colaborador",1
+"USE_DBUS","2014-01-01","Colaborador",1
+"USE_DCC64","2011-02-01","Autor",1
+"USE_DCC64","2014-12-01","Colaborador",1
+"USE_DEBUG","2011-02-01","Autor",1
+"USE_DEBUG","2014-06-01","Colaborador",1
+"USE_GMODULE","2011-02-01","Autor",1
+"USE_GMODULE","2013-04-01","Colaborador",1
+"USE_GMODULE","2014-06-01","Colaborador",1
+"USE_GTKSPELL","2011-02-01","Autor",1
+"USE_GTKSPELL","2012-07-01","Colaborador",1
+"USE_GTKSPELL","2013-04-01","Colaborador",1
+"USE_GTKSPELL","2013-10-01","Colaborador",1
+"USE_IPV6","2011-02-01","Autor",1
+"USE_IPV6","2012-01-01","Autor",1
+"USE_IPV6","2012-02-01","Autor",1
+"USE_IPV6","2012-07-01","Colaborador",1
+"USE_IPV6","2014-12-01","Colaborador",1
+"USE_LIBCANBERRA","2013-04-01","Colaborador",1
+"USE_LIBCANBERRA","2013-06-01","Colaborador",1
+"USE_LIBNOTIFY","2011-04-01","Autor",1
+"USE_LIBPROXY","2011-02-01","Autor",1
+"USE_LIBSEXY","2011-02-01","Autor",1
+"USE_LIBSEXY","2013-10-01","Colaborador",1
+"USE_MMX","2011-02-01","Autor",1
+"USE_MMX","2013-01-01","Colaborador",1
+"USE_MMX","2013-09-01","Colaborador",1
+"USE_MSPROXY","2011-02-01","Autor",1
+"USE_MSPROXY","2012-07-01","Colaborador",1
+"USE_MSPROXY","2014-12-01","Colaborador",1
+"USE_OPENSSL","2011-02-01","Autor",1
+"USE_OPENSSL","2012-07-01","Colaborador",1
+"USE_OPENSSL","2012-09-01","Colaborador",1
+"USE_OPENSSL","2012-10-01","Colaborador",1
+"USE_OPENSSL","2013-05-01","Colaborador",1
+"USE_OPENSSL","2013-09-01","Colaborador",1
+"USE_OPENSSL","2014-10-01","Colaborador",1
+"USE_OPENSSL","2014-12-01","Colaborador",1
+"USE_OPENSSL","2015-01-01","Colaborador",1
+"USE_OPENSSL","2016-01-01","Colaborador",1
+"USE_PLUGIN","2011-02-01","Autor",1
+"USE_PLUGIN","2013-08-01","Colaborador",1
+"USE_PLUGIN","2014-01-01","Colaborador",1
+"USE_PLUGIN","2014-06-01","Colaborador",1
+"USE_PLUGIN","2018-03-01","Colaborador",1
+"USE_PTHREAD","2010-04-01","Autor",1
+"USE_PTHREAD","2010-09-01","Autor",1
+"USE_SHM","2011-02-01","Autor",1
+"USE_SHM","2013-09-01","Colaborador",1
+"USE_SIGACTION","2011-02-01","Autor",1
+"USE_SPELL","2013-10-01","Colaborador",1
+"USE_XFT","2011-02-01","Autor",1
+"USE_XFT","2012-10-01","Colaborador",1
+"USE_XFT","2013-09-01","Colaborador",1
+"USE_XLIB","2011-02-01","Autor",1
+"USE_XLIB","2012-10-01","Colaborador",1
+"USE_XLIB","2013-09-01","Colaborador",1
+"USING_FREEBSD","2011-02-01","Autor",1
+"USING_FREEBSD","2016-12-01","Colaborador",1
+"USING_LINUX","2011-02-01","Autor",1
+"VERSION","2013-05-01","Colaborador",1
+"WIN32","2010-04-01","Autor",1
+"WIN32","2010-08-01","Autor",1
+"WIN32","2010-09-01","Autor",1
+"WIN32","2011-02-01","Autor",1
+"WIN32","2011-07-01","Autor",1
+"WIN32","2011-11-01","Autor",1
+"WIN32","2011-12-01","Autor",1
+"WIN32","2012-01-01","Autor",1
+"WIN32","2012-07-01","Colaborador",1
+"WIN32","2012-10-01","Colaborador",2
+"WIN32","2012-11-01","Colaborador",2
+"WIN32","2012-12-01","Colaborador",1
+"WIN32","2013-01-01","Colaborador",1
+"WIN32","2013-03-01","Colaborador",2
+"WIN32","2013-04-01","Colaborador",2
+"WIN32","2013-05-01","Colaborador",3
+"WIN32","2013-08-01","Colaborador",1
+"WIN32","2013-09-01","Colaborador",1
+"WIN32","2013-10-01","Colaborador",1
+"WIN32","2013-11-01","Colaborador",1
+"WIN32","2014-01-01","Colaborador",1
+"WIN32","2014-02-01","Colaborador",1
+"WIN32","2014-04-01","Colaborador",1
+"WIN32","2014-12-01","Colaborador",2
+"WIN32","2015-01-01","Colaborador",1
+"WIN32","2015-02-01","Colaborador",2
+"WIN32","2017-11-01","Colaborador",1
+"WIN32","2018-03-01","Colaborador",1
+"WIN32	/* also auto-load C:\Program Files\HexChat\Plugins\*.py */","2012-07-01","Colaborador",1
+"WIN32	/* also auto-load C:\Program Files\HexChat\Plugins\*.py */","2013-05-01","Colaborador",1
+"WIN32	/* also auto-load C:\Program Files\XChat\Plugins\*.py */","2011-02-01","Autor",1
+"WIN32	/* also auto-load C:\Program Files\XChat\Plugins\*.py */","2012-07-01","Colaborador",1
+"WIN32	/* black listed */","2011-02-01","Autor",1
+"WIN32	/* black listed */","2014-06-01","Colaborador",1
+"WIN32	/* FIXME fix reconnect crashes and remove this ifdef! */","2013-05-01","Colaborador",1
+"WIN32	/* keep this in sync with cfgfiles.c! */","2013-04-01","Colaborador",1
+"WIN32	/* keep this in sync with fe-gtk.c! */","2013-04-01","Colaborador",1
+"WIN32	/* lastlog -r isn't implemented in fe_lastlog yet */","2012-07-01","Colaborador",1
+"WIN32	/* leaks GDI pool memory - don't use on win32 */","2011-02-01","Autor",1
+"WIN32	/* leaks GDI pool memory, don't enable */","2011-02-01","Autor",1
+"WIN32	/* needs more work */","2011-02-01","Autor",1
+"WIN32	/* uses DBUS */","2011-02-01","Autor",1
+"WIN32	/* uses DBUS */","2014-01-01","Colaborador",1
+"WIN32 /* somehow this is broken on win32 */","2011-12-01","Autor",1
+"WIN32 /* somehow this is broken on win32 */","2012-11-01","Colaborador",1
+"WIN32 /* submenus are buggy on win32 */","2012-11-01","Colaborador",1
+"WIN32 /* win32 only supports wav, others could support anything */","2013-08-01","Colaborador",1
+"WIN32 /* Windows uses IEC size (with SI format) */","2015-02-01","Autor",1
+"WITH_THREAD","2011-02-01","Autor",1
+"XCHAT","2011-02-01","Autor",1
+"XCHAT","2012-10-01","Colaborador",1
+"XCHAT	/* xchat has this in util.c */","2011-02-01","Autor",1
+"XCHAT	/* xchat has this in util.c */","2012-10-01","Colaborador",1
+"XCHAT_PLUGIN_COMPAT","2012-10-01","Colaborador",1

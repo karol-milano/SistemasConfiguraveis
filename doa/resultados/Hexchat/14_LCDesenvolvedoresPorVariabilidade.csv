@@ -1,0 +1,153 @@
+"Variabilidades","Desenvolvedor","Valor","Total"
+"__EMX__ /* os/2 */",1,"2010-04-01",237
+"IPV6",1,"2010-04-01",237
+"STATIC",1,"2010-04-01",237
+"USE_PTHREAD",1,"2010-04-01",237
+"(_MSC_VER) && _MSC_VER >= 1400",1,"2011-01-01",237
+"snprintf",1,"2011-01-01",237
+"stat64",1,"2011-01-01",237
+"__EMX__						  /* if os/2 */",1,"2011-02-01",237
+"(USE_GTKSPELL) && !(WIN32)",1,"2011-02-01",237
+"(USING_LINUX) ||  (USING_FREEBSD) ||  (__APPLE__)",1,"2011-02-01",237
+"(WIN32) || (USE_XLIB)",1,"2011-02-01",237
+"CUSTOM_LIST",1,"2011-02-01",237
+"defined(LIBNOTIFY)",1,"2011-02-01",237
+"ENABLE_NLS",1,"2011-02-01",237
+"GTK_STOCK_MEDIA_PLAY",1,"2011-02-01",237
+"HAVE_CONFIG_H",1,"2011-02-01",237
+"HAVE_MEMRCHR",1,"2011-02-01",237
+"HAVE_STRINGS_H",1,"2011-02-01",237
+"LIBNOTIFY",1,"2011-02-01",237
+"LOOKUPD	/* See note about lookupd above the IPv4 version of net_resolve. */",1,"2011-02-01",237
+"OLD_PERL",1,"2011-02-01",237
+"PERL_DLL",1,"2011-02-01",237
+"PERL_REQUIRED_VERSION",1,"2011-02-01",237
+"USE_LIBPROXY",1,"2011-02-01",237
+"USE_SIGACTION",1,"2011-02-01",237
+"USING_LINUX",1,"2011-02-01",237
+"WIN32	/* leaks GDI pool memory - don't use on win32 */",1,"2011-02-01",237
+"WIN32	/* leaks GDI pool memory, don't enable */",1,"2011-02-01",237
+"WIN32	/* needs more work */",1,"2011-02-01",237
+"WITH_THREAD",1,"2011-02-01",237
+"defined(USE_LIBNOTIFY)",1,"2011-04-01",237
+"NOTIFY_CHECK_VERSION",1,"2011-04-01",237
+"USE_LIBNOTIFY",1,"2011-04-01",237
+"_WIN32 && ! DEBUG",1,"2011-08-01",237
+"(ENABLE_NLS) &&  (HAVE_ISO_CODES)",1,"2011-08-01",237
+"G_ENABLE_DEBUG",1,"2011-08-01",237
+"HAVE_DIRECT_H",1,"2011-08-01",237
+"HAVE_UNISTD_H",1,"2011-08-01",237
+"_MSC_VER",1,"2011-11-01",237
+"_WIN64 /* use this approach, the wProcessorArchitecture method always returns 0 (=x86) for plugins for some reason */",1,"2011-11-01",237
+"_WIN64 /* use this approach, the wProcessorArchitecture method always returns 0 (=x86) for some reason */",1,"2011-11-01",237
+"(USE_GTKSPELL)/* && !(WIN32)",1,"2011-12-01",237
+"WIN32	/* also auto-load C:\Program Files\XChat\Plugins\*.py */",2,"2012-07-01",237
+"WIN32	/* lastlog -r isn't implemented in fe_lastlog yet */",1,"2012-07-01",237
+"UNICODE",2,"2012-10-01",237
+"XCHAT",2,"2012-10-01",237
+"XCHAT	/* xchat has this in util.c */",2,"2012-10-01",237
+"XCHAT_PLUGIN_COMPAT",1,"2012-10-01",237
+"WIN32 /* somehow this is broken on win32 */",2,"2012-11-01",237
+"WIN32 /* submenus are buggy on win32 */",1,"2012-11-01",237
+"G_OS_UNIX",1,"2013-03-01",237
+"G_OS_WIN32 /* simple migration we will keep for a short while */",1,"2013-03-01",237
+"HAVE_SNPRINTF",2,"2013-03-01",237
+"__EMX__",2,"2013-04-01",237
+"_DEBUG",2,"2013-04-01",237
+"_WIN32",2,"2013-04-01",237
+"!( (_WIN32) || (LXC_XCHAT_GETTEXT) )",2,"2013-04-01",237
+"(_WIN32) || (LXC_XCHAT_GETTEXT)",2,"2013-04-01",237
+"(LUA_VERSION_NUM) && (LUA_VERSION_NUM >= 501)",2,"2013-04-01",237
+"DEBUG",2,"2013-04-01",237
+"PATH_MAX /* hurd */",2,"2013-04-01",237
+"USE_LIBCANBERRA",1,"2013-04-01",237
+"WIN32	/* keep this in sync with cfgfiles.c! */",1,"2013-04-01",237
+"WIN32	/* keep this in sync with fe-gtk.c! */",1,"2013-04-01",237
+"(GTK_WIDGET_HAS_FOCUS)",2,"2013-05-01",237
+"(GTK_WIDGET_VISIBLE)",2,"2013-05-01",237
+"IS_PY3K",2,"2013-05-01",237
+"VERSION",1,"2013-05-01",237
+"WIN32",6,"2013-05-01",237
+"WIN32	/* also auto-load C:\Program Files\HexChat\Plugins\*.py */",2,"2013-05-01",237
+"WIN32	/* FIXME fix reconnect crashes and remove this ifdef! */",1,"2013-05-01",237
+"(__hpux)",2,"2013-08-01",237
+"USE_PLUGIN",2,"2013-08-01",237
+"WIN32 /* win32 only supports wav, others could support anything */",1,"2013-08-01",237
+"!(USE_XLIB) && !(WIN32)",2,"2013-09-01",237
+"(USE_XLIB) || (WIN32)",3,"2013-09-01",237
+"COLOR_HILIGHT",2,"2013-09-01",237
+"HEXCHAT",2,"2013-09-01",237
+"HEXCHAT	/* HexChat has this in util.c */",2,"2013-09-01",237
+"ITALIC",2,"2013-09-01",237
+"MOTION_MONITOR",2,"2013-09-01",237
+"SCROLL_HACK",2,"2013-09-01",237
+"SMOOTH_SCROLL",2,"2013-09-01",237
+"USE_DB",2,"2013-09-01",237
+"USE_MMX",3,"2013-09-01",237
+"USE_SHM",2,"2013-09-01",237
+"USE_XFT",3,"2013-09-01",237
+"USE_XLIB",3,"2013-09-01",237
+"(USE_GTKSPELL) || (USE_LIBSEXY)",2,"2013-10-01",237
+"(USE_GTKSPELL)/* && !(WIN32) */",2,"2013-10-01",237
+"HAVE_ISO_CODES",2,"2013-10-01",237
+"HAVE_ISO_CODES /* Defined with static spelling */",1,"2013-10-01",237
+"USE_GTKSPELL",3,"2013-10-01",237
+"USE_LIBSEXY",2,"2013-10-01",237
+"USE_SPELL",1,"2013-10-01",237
+"__APPLE__",2,"2014-01-01",237
+"(WIN32) ||  (__APPLE__)",1,"2014-01-01",237
+"GDK_WINDOWING_X11",1,"2014-01-01",237
+"USE_DBUS",3,"2014-01-01",237
+"WIN32	/* uses DBUS */",2,"2014-01-01",237
+"HAVE_GTK_MAC",1,"2014-05-01",237
+"HAVE_GTK_MAC /* Added to app menu, see below */",1,"2014-05-01",237
+"PATH_MAX",2,"2014-06-01",237
+"RTLD_GLOBAL",2,"2014-06-01",237
+"RTLD_NOW",2,"2014-06-01",237
+"USE_DEBUG",2,"2014-06-01",237
+"USE_GMODULE",3,"2014-06-01",237
+"WIN32	/* black listed */",2,"2014-06-01",237
+"defined __APPLE__",2,"2014-09-01",237
+"defined(__APPLE__)",1,"2014-09-01",237
+"SSL_OP_NO_COMPRESSION",1,"2014-11-01",237
+"SSL_OP_SINGLE_ECDH_USE",1,"2014-11-01",237
+"(USE_IPV6) ||  (WIN32)",2,"2014-12-01",237
+"DEBUG_MSPROXY",2,"2014-12-01",237
+"LOOKUPD",2,"2014-12-01",237
+"SOCKS",3,"2014-12-01",237
+"USE_DCC64",2,"2014-12-01",237
+"USE_IPV6",3,"2014-12-01",237
+"USE_MSPROXY",3,"2014-12-01",237
+"USE_OPENSSL",4,"2015-01-01",237
+"__sparc__",2,"2015-02-01",237
+"_WIN64",3,"2015-02-01",237
+"HAVE_LIBPCI",1,"2015-02-01",237
+"WIN32 /* Windows uses IEC size (with SI format) */",1,"2015-02-01",237
+"__alpha__",2,"2016-03-01",237
+"__ia64__",2,"2016-03-01",237
+"__parisc__",2,"2016-03-01",237
+"__powerpc__",2,"2016-03-01",237
+"(__i386__) || (__x86_64__)",2,"2016-03-01",237
+"(__powerpc__)",1,"2016-03-01",237
+"defined( __alpha__)",1,"2016-03-01",237
+"defined(__ia64__)",1,"2016-03-01",237
+"defined(__parisc__)",1,"2016-03-01",237
+"defined(__powerpc__)",1,"2016-03-01",237
+"defined(__sparc__)",1,"2016-03-01",237
+"G_OS_WIN32",2,"2016-04-01",237
+"__FreeBSD__",1,"2016-12-01",237
+"(__FreeBSD__) ||  (__APPLE__)",1,"2016-12-01",237
+"(__linux__) ||  (__CYGWIN__)",1,"2016-12-01",237
+"(__linux__) ||  (__FreeBSD__) ||  (__APPLE__) ||  (__CYGWIN__)",1,"2016-12-01",237
+"(USING_FREEBSD) ||  (__APPLE__)",2,"2016-12-01",237
+"(USING_LINUX) ||  (__CYGWIN__)",1,"2016-12-01",237
+"(USING_LINUX) ||  (USING_FREEBSD) ||  (__APPLE__) ||  (__CYGWIN__)",1,"2016-12-01",237
+"HAVE_DH_GET0_KEY",1,"2016-12-01",237
+"HAVE_DH_SET0_KEY",1,"2016-12-01",237
+"HAVE_DH_SET0_PQG",1,"2016-12-01",237
+"USING_FREEBSD",2,"2016-12-01",237
+"HAVE_ASN1_STRING_GET0_DATA",1,"2017-06-01",237
+"HAVE_ERR_REMOVE_THREAD_STATE",1,"2017-06-01",237
+"(__MINGW64__) || (__MINGW32__)",1,"2018-03-01",237
+"(WIN32) && (!(__MINGW32__) && !(__MINGW64__))",1,"2018-03-01",237
+"PLUGIN_HEXCHAT_FISHLIM_TEST_H",1,"2020-07-01",237
