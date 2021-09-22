@@ -17,8 +17,8 @@ desenvolvedoresPorVariabilidadePeloTempo <- function() {
 #' @param projeto O nome do projeto em que será feito a análise
 #' @param valores Os dados lidos do arquivo
 gerarDesenvolvedoresPorVariabilidadePeloTempo <- function(projeto, valores) {
-  #projeto <- "Cherokee"
-  #valores <- lerPlanilhaCommits(arquivo)
+  #projeto <- "Mongo"
+  #valores <- lerPlanilhaCommits(projeto)
   
   arq_var <- valores %>%
     select(Desenvolvedor, Data, Variabilidades)
@@ -28,7 +28,7 @@ gerarDesenvolvedoresPorVariabilidadePeloTempo <- function(projeto, valores) {
   
   arq_var <- arq_var %>%
     group_by(Variabilidades, Data) %>%
-    summarise(Desenvolvedor = n())
+    summarise(Developer = n())
   
   tabela <- paste("../resultados/", projeto, "/12_DesenvolvedoresPorVariabilidadePeloTempo.csv", sep = "")
   
@@ -39,13 +39,13 @@ gerarDesenvolvedoresPorVariabilidadePeloTempo <- function(projeto, valores) {
   png(file = imagem)
   
   p <- arq_var %>%
-    ggplot(aes(x = "", y = Desenvolvedor)) + 
+    ggplot(aes(x = "", y = Developer)) + 
     geom_violin(fill="slateblue", draw_quantiles = c(0.25, 0.5, 0.75)) +
     geom_boxplot(width=0.1, fill="grey") +
     stat_summary(fun.data = n_fun, geom = "text", color = "red", size = 10) +
     theme(legend.position = "none") +
-    labs(x = "Tipo de Desenvolvedor", y = "Quantidade de Variabilidades",
-         title = "Tipo de desenvolvedor por variabilidades")
+    labs(x = "Variability", y = "Number of Developers",
+         title = "Developer by variabilities")
   
   print(p)
   

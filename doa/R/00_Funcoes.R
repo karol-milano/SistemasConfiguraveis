@@ -7,10 +7,10 @@ library(ggplot2)
 library(reshape2)
 
 
-#' Função que encontra a média
+#' Função que encontra a mediana
 #' 
 #' @param data.frame x
-#' @return Novo data.frame contendo a média
+#' @return Novo data.frame contendo a mediana
 n_fun <- function(x) {
   return (data.frame(y = median(x), label = floor(median(x))))
 }
@@ -62,7 +62,9 @@ lerPlanilhaCommits <- function(projeto) {
     "Classificacao",
     "EhAutor",
     "Ownership",
-    "Classificacao_ownership"
+    "Classificacao_ownership",
+    "Ownership_final",
+    "Classificacao_ownership_final"
   )
   
   return (valores)

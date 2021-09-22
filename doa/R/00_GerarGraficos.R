@@ -5,20 +5,22 @@ source("00_Funcoes.R")
 # Os arquivos a seguir utilizam a função lerPlanilhaAutores
 source("01_VariabilidadesPorArquivo.R")
 source("02_ArquivosPorDesenvolvedor.R")
-source("03_TabelaComparacao.R")
+source("16_TabelaComparacao.R")
 
 # Os arquivos a seguir utilizam a função lerPlanilhaCommits
 source("02_ArquivosPorCommit.R")
 source("05_ClassificacaoPeloTempo.R")
-source("05_ClassificacaoPeloTempoOwnerShip.R")
-#source("06_PorcentagemClassificacaoPeloTempo.R")
-#source("06_PorcentagemClassificacaoPeloTempoOwnerShip.R")
-source("08_VariabilidadesPorDesenvolvedorPeloTempo.R")
-source("09_LCCommitsPorDesenvolvedor.R")
-source("09_LCVariabilidadesPorDesenvolvedor.R")
-source("10_DesenvolvedoresPorVariabilidadePeloTempo.R")
-source("11_LCDesenvolvedoresPorVariabilidade.R")
-source("13_TabelaGini.R")
+source("06_ClassificacaoPeloTempoOwnerShip.R")
+source("07_PorcentagemClassificacaoPeloTempoDOA.R")
+source("08_PorcentagemClassificacaoPeloTempoOwnerShip.R")
+source("09_VariabilidadesPorDesenvolvedorPeloTempo.R")
+source("10_LCCommitsPorDesenvolvedor.R")
+source("11_LCVariabilidadesPorDesenvolvedor.R")
+source("12_DesenvolvedoresPorVariabilidadePeloTempo.R")
+source("13_LCDesenvolvedoresPorCommitPeloTempoOwnerShip.R")
+source("14_LCDesenvolvedoresPorVariabilidade.R")
+source("15_TabelaGini.R")
+source("17_DesenvolvedoresPorArquivo.R")
 
 # ======================================================================= #
 
@@ -51,25 +53,45 @@ for (i in 1:length(file.names)) {
   print("|_ 05_gerarClassificacaoPeloTempo")
   gerarClassificacaoPeloTempo(projeto, valores)
   
-  #   06_PorcentagemClassificacaoPeloTempo
-  #print("|_ 06_gerarPorcentagemClassificacaoPeloTempo")
-  #gerarPorcentagemClassificacaoPeloTempo(projeto, valores)
+  #   06_ClassificacaoPeloTempoOwnerShip
+  print("|_ 06_gerarClassificacaoPeloTempoOwnerShip")
+  gerarClassificacaoPeloTempoOwnership(projeto, valores)
   
-  #   08_VariabilidadesPorDesenvolvedorPeloTempo
-  print("|_ 08_gerarVariabilidadesPorDesenvolvedorPeloTempo")
+  #   07_PorcentagemClassificacaoPeloTempoDOA
+  print("|_ 07_gerarPorcentagemClassificacaoPeloTempoDOA")
+  gerarPorcentagemClassificacaoPeloTempoDOA(projeto, valores)
+  
+  #   08_PorcentagemClassificacaoPeloTempoOwnership
+  print("|_ 08_PorcentagemClassificacaoPeloTempoOwnership")
+  gerarPorcentagemClassificacaoPeloTempoOwnerShip(projeto, valores)
+  
+  #   09_VariabilidadesPorDesenvolvedorPeloTempo
+  print("|_ 09_gerarVariabilidadesPorDesenvolvedorPeloTempo")
   gerarVariabilidadesPorDesenvolvedorPeloTempo(projeto, valores)
   
-  #   09_LCVariabilidadesPorDesenvolvedorPeloTempo
-  print("|_ 09_gerarLCVariabilidadesPorDesenvolvedorPeloTempo")
+  #   10_LCCommitsPorDesenvolvedor
+  print("|_ 10_gerarLCCommitsPorDesenvolvedor")
+  gerarLCCommitsPorDesenvolvedor(projeto, valores)
+  
+  #   11_LCVariabilidadePorDesenvolvedor
+  print("|_ 11_gerarLCVariabilidadePorDesenvolvedor")
   gerarLCVariabilidadesPorDesenvolvedor(projeto, valores)
   
-  #   10_DesenvolvedoresPorVariabilidadePeloTempo
-  print("|_ 10_gerarDesenvolvedoresPorVariabilidadePeloTempo")
+  #   12_DesenvolvedoresPorVariabilidadePeloTempo
+  print("|_ 12_gerarDesenvolvedoresPorVariabilidadePeloTempo")
   gerarDesenvolvedoresPorVariabilidadePeloTempo(projeto, valores)
   
-  #   11_LCDesenvolvedoresPorVariabilidadePeloTempo
-  print("|_ 11_gerarLCDesenvolvedoresPorVariabilidadePeloTempo")
+  #   13_LCDesenvolvedoresPorCommitPeloTempoOwnership
+  print("|_ 13_gerarLCDesenvolvedoresPorCommitPeloTempoOwnership")
+  gerarLCDesenvolvedoresPorCommitPeloTempo(projeto, valores)
+  
+  #   14_LCDesenvolvedoresPorVariabilidade
+  print("|_ 14_gerarLCDesenvolvedoresPorVariabilidade")
   gerarLCDesenvolvedoresPorVariabilidade(projeto, valores)
+  
+  #   17_DesenvolvedoresPorArquivo
+  print("|_ 17_gerarDesenvolvedoresPorArquivo")
+  gerarDesenvolvedoresPorArquivo(projeto, valores)
   
   print("")
   print("# ======================================================================= #")
@@ -77,12 +99,11 @@ for (i in 1:length(file.names)) {
 }
 
 # ======================================================================= #
-#   03_TabelaComparacao
-print("|_ 03_gerarTabelaComparacao")
-tabelaComparacao()
-
-# ======================================================================= #
-#   13_TabelaGini
-print("|_ 13_gerarTabelaGini")
+#   15_TabelaGini
+print("|_ 15_gerarTabelaGini")
 tabelaGini()
 
+# ======================================================================= #
+#   16_TabelaComparacao
+print("|_ 16_gerarTabelaComparacao")
+tabelaComparacao()

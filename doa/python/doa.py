@@ -76,7 +76,7 @@ def main():
     
     for root, dirs, files in os.walk(working_directory + '/data'):
         for f in sorted(files):
-        #for f in ["Collected.json"]:
+        #for f in ["Xterm.json"]:
             if '.json' in f:
                 try:
                     with open(working_directory + '/data/' + f) as jfile:

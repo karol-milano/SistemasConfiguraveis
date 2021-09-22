@@ -8,6 +8,12 @@ import progressbar
 
 from pydriller import RepositoryMining
 
+def remove_non_ascii(text):
+    try:
+        return unidecode.unidecode(unicode(text, encoding = "utf-8"))
+    except:
+        return unidecode.unidecode(str(text)) 
+
 def main():
 
     working_directory = os.path.dirname(os.path.realpath(__file__))
@@ -42,7 +48,7 @@ def main():
                 for i, commit in enumerate(rm.traverse_commits()):
 
                     email = commit.author.email.lower().strip()
-                    name = unidecode.unidecode(commit.author.name.title().strip())
+                    name = remove_non_ascii(commit.author.name.title().strip())
 
                     if email not in autores:
                         autores[email] = name
@@ -53,9 +59,15 @@ def main():
 
                     file_count = 0
                     for modified_file in commit.modifications:
-                        ext = modified_file.filename.split(".")[-1]
+                        filename = modified_file.filename.split(".")
+                        ext = filename[-1]
+                        fname = filename[0]
+                        
                         if ext != "c" and ext != "cpp":
                             continue
+
+                        if fname == "aux":
+                            fname = "aux2"
 
                         aux = ""
                         file_count += 1
@@ -68,10 +80,10 @@ def main():
                         if not os.path.exists(modified):
                             os.makedirs(modified)
 
-                        modified = os.path.join(modified, modified_file.filename)
+                        modified = os.path.join(modified, fname + "." + ext)
 
                         with open(modified, 'w') as f:
-                            f.write(modified_file.diff)
+                            f.write(remove_non_ascii(modified_file.diff))
 
                     dict_writer.writerow({
                         "Commit": commit.hash,

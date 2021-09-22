@@ -3,6 +3,7 @@
 
 import io
 import os
+import re
 import csv
 import sys
 import imp
@@ -79,6 +80,7 @@ class Preprocessor:
                 if line[0] != '+' and line[0] != '-':
                     continue
                 
+                line = re.sub("(//[^\n]*(?:\n|$))|(/\*.*?\*/)", "", line) # Remove os comentários
                 found, prep, var = self.lexer(line[1:].strip())
                 
                 if found != 0:
@@ -126,6 +128,7 @@ class Preprocessor:
                 if line[0] != '+' and line[0] != '-':
                     continue
                 
+                line = re.sub("(//[^\n]*(?:\n|$))|(/\*.*?\*/)", "", line) # Remove os comentários
                 found, prep, var = self.lexer(line[1:].strip())
                 
                 if found != 0 and var not in variabilities:

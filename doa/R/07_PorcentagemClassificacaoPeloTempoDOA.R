@@ -7,16 +7,16 @@ porcentagemClassificacaoPeloTempo <- function() {
   file.names <- dir(path)
   for (i in 1:length(file.names)) {
     valores <- lerPlanilhaCommits(file.names[i])
-    gerarPorcentagemClassificacaoPeloTempo(file.names[i], valores)
+    gerarPorcentagemClassificacaoPeloTempoDOA(file.names[i], valores)
   }
 }
 
 
-#' Função que gera o gráfico PorcentagemClassificacaoPeloTempo
+#' Função que gera o gráfico PorcentagemClassificacaoPeloTempoDOA
 #' 
 #' @param projeto O nome do projeto em que será feito a análise
 #' @param valores Os dados lidos do arquivo
-gerarPorcentagemClassificacaoPeloTempo <- function(projeto, valores) {
+gerarPorcentagemClassificacaoPeloTempoDOA <- function(projeto, valores) {
   #projeto <- "Collected"
   #valores <- lerPlanilhaCommits(projeto)
   

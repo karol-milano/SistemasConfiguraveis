@@ -16,18 +16,22 @@ class Commit:
         return name
 
 
-    def conta_ownership(self, rows):
-        dict_arquivo = dict()
-        dict_conta_arquivo = dict()
+    def conta_ownership(self, rows, dict_total, dict_conta_arquivo):
+        """
+            Função utilizada para calcular o ownership do arquivo
+        """
 
         for r in rows:
-            if r['arquivo'] in dict_arquivo:
-                conta = dict_arquivo.get(r['arquivo'])
+            if r['qtd_variabilidades'] == "":
+                continue
 
-                conta += 1
-                dict_arquivo[r['arquivo']] = conta
+            if r['arquivo'] in dict_total:
+                total = dict_total.get(r['arquivo'])
+
+                total += 1
+                dict_total[r['arquivo']] = total
             else:
-                dict_arquivo[r['arquivo']] = 1
+                dict_total[r['arquivo']] = 1
 
             if (r['arquivo'], r['desenvolvedor']) in dict_conta_arquivo:
                 conta = dict_conta_arquivo.get((r['arquivo'], r['desenvolvedor']))
@@ -37,23 +41,20 @@ class Commit:
             else:
                 dict_conta_arquivo[(r['arquivo'], r['desenvolvedor'])] = 1
 
-
         for r in rows:
             ownership = dict_conta_arquivo.get((r['arquivo'], r['desenvolvedor']))
-            total = dict_arquivo.get(r['arquivo'])
+            total = dict_total.get(r['arquivo'])
             r['ownership'] =  100 * float(ownership) / float(total)
 
             classificacao_ownership = "Minor"
 
             if r['ownership'] > 5:
                 classificacao_ownership = "Major"
-            else:
-                print(r)
 
             r['classificacao_ownership'] = classificacao_ownership
 
 
-    def classificacao_tempo (self, rows):
+    def classificacao_tempo (self, rows, dict_total, dict_conta_arquivo):
         """
         
         """
@@ -64,15 +65,33 @@ class Commit:
         data = rows[0]['data']
         for r in rows:
             if data != r['data']:
-                self.conta_ownership(rows[begin:end])
+                self.conta_ownership(rows[begin:end], dict_total, dict_conta_arquivo)
                 begin = end
                 data = r['data']
                 end += 1
             else:
                 end += 1
 
-        self.conta_ownership(rows[begin:end])
+        self.conta_ownership(rows[begin:end], dict_total, dict_conta_arquivo)
         return rows
+
+
+    def conta_ownership_final(self, rows, dict_total, dict_conta_arquivo):
+        """
+        """
+
+        for r in rows:
+            ownership = dict_conta_arquivo.get((r['arquivo'], r['desenvolvedor']))
+            total = dict_total.get(r['arquivo'])
+            ownership =  100 * float(ownership) / float(total)
+
+            classificacao_ownership = "Minor"
+
+            if ownership > 5:
+                classificacao_ownership = "Major"
+
+            r['ownership_final'] = ownership
+            r['classificacao_ownership_final'] = classificacao_ownership
 
 
     def parse_commit(self, rows_author, json_data):
@@ -108,8 +127,9 @@ class Commit:
                             else:
                                 variabilities.append(aux)
 
-                        if len(variabilities) == 0:
-                            variabilities.append("")
+                        var = ""
+                        if len(variabilities) != 0:
+                            var = variabilities[0]
 
                         crows.append({
                             "commit": idCommit,
@@ -118,11 +138,13 @@ class Commit:
                             "arquivo": r["arquivo"],
                             "qtd_variabilidades": len(variabilities), 
                             "existencia": found, 
-                            "variabilidades": variabilities[0],
+                            "variabilidades": var,
                             "classificacao": "", 
                             "ehautor": r["autor"],
                             "ownership": 0,
-                            "classificacao_ownership": ""
+                            "classificacao_ownership": "",
+                            "ownership_final": 0,
+                            "classificacao_ownership_final": ""
                         })
 
                         if len(variabilities) > 0:
@@ -138,7 +160,9 @@ class Commit:
                                     "classificacao": "", 
                                     "ehautor": r["autor"],
                                     "ownership": 0,
-                                    "classificacao_ownership": ""
+                                    "classificacao_ownership": "",
+                                    "ownership_final": 0,
+                                    "classificacao_ownership_final": ""
                                 })
                                 
         rows = sorted(crows, key = itemgetter('commit'))
@@ -203,4 +227,9 @@ class Commit:
             else:
                 dict_nome[r['desenvolvedor']] = r['classificacao']
 
-        return self.classificacao_tempo(rows)
+        dict_total = dict()
+        dict_conta_arquivo = dict()
+        self.classificacao_tempo(rows, dict_total, dict_conta_arquivo)
+        self.conta_ownership_final(rows, dict_total, dict_conta_arquivo)
+
+        return rows

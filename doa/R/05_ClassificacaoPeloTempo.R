@@ -17,7 +17,7 @@ classificacaoPeloTempo <- function() {
 #' @param projeto O nome do projeto em que será feito a análise
 #' @param valores Os dados lidos do arquivo
 gerarClassificacaoPeloTempo <- function(projeto, valores) {
-  #projeto <- "Xterm"
+  #projeto <- "Apache"
   #valores <- lerPlanilhaCommits(projeto)
   
   arq_var <- valores %>%
@@ -25,6 +25,12 @@ gerarClassificacaoPeloTempo <- function(projeto, valores) {
   
   arq_var <- arq_var[complete.cases(arq_var), ]
   arq_var <- arq_var[!duplicated(arq_var[, c("Data", "Desenvolvedor", "Classificacao")]), ]
+  
+  arq_var$Classificacao[arq_var$Classificacao=="Especialista"] <- "Specialist"
+  arq_var$Classificacao[arq_var$Classificacao=="Generalista"] <- "Generalist"
+  arq_var$Classificacao[arq_var$Classificacao=="Misto"] <- "Mixed"
+  
+  names(arq_var)[names(arq_var) == "Classificacao"] <- "Classification"
   
   arq_var <- arq_var %>%
     arrange(Data, Desenvolvedor)
@@ -43,11 +49,11 @@ gerarClassificacaoPeloTempo <- function(projeto, valores) {
   for (i in 1:nrow(arq_var)) {
     nome <- arq_var[i, "Desenvolvedor"]
     
-    if (arq_var[i, "Classificacao"] != x[nome, "Valor"]) {
-      if (arq_var[i, "Classificacao"] == "Especialista") {
+    if (arq_var[i, "Classification"] != x[nome, "Valor"]) {
+      if (arq_var[i, "Classification"] == "Specialist") {
         esp <- esp + 1
       }
-      else if (arq_var[i, "Classificacao"] == "Generalista") {
+      else if (arq_var[i, "Classification"] == "Generalist") {
         gen <- gen + 1
       }
       else {
@@ -55,10 +61,10 @@ gerarClassificacaoPeloTempo <- function(projeto, valores) {
       }
       
       if (x[nome, "Valor"] != "") {
-        if (x[nome, "Valor"] == "Especialista") {
+        if (x[nome, "Valor"] == "Specialist") {
           esp <- esp - 1
         }
-        else if (x[nome, "Valor"] == "Generalista") {
+        else if (x[nome, "Valor"] == "Generalist") {
           gen <- gen - 1
         }
         else {
@@ -66,14 +72,14 @@ gerarClassificacaoPeloTempo <- function(projeto, valores) {
         }
       }
       
-      x[nome, "Valor"] <- arq_var[i, "Classificacao"]
+      x[nome, "Valor"] <- arq_var[i, "Classification"]
     }
     
     if (dt != arq_var[i, "Data"]) {
       for (j in idt:i) {
-        arq_var[j, "Especialista"] <- esp
-        arq_var[j, "Generalista"] <- gen
-        arq_var[j, "Misto"] <- mis
+        arq_var[j, "Specialist"] <- esp
+        arq_var[j, "Generalist"] <- gen
+        arq_var[j, "Mixed"] <- mis
         
         arq_var[j, "Total"] <- esp + gen + mis
       }
@@ -83,7 +89,7 @@ gerarClassificacaoPeloTempo <- function(projeto, valores) {
     }
   }
   
-  df <- melt(arq_var, id.vars = "Data", variable.name = "Classificacao", measure.vars = c("Especialista", "Generalista", "Misto"))
+  df <- melt(arq_var, id.vars = "Data", variable.name = "Classification", measure.vars = c("Specialist", "Generalist", "Mixed"))
   df <- arrange(df, Data)
 
   tabela <- paste("../resultados/", projeto, "/05_ClassificacaoPeloTempoDOA.csv", sep = "")
@@ -94,15 +100,15 @@ gerarClassificacaoPeloTempo <- function(projeto, valores) {
   
   png(file = imagem)
   
-  df %>%
-    ggplot(aes(x = as.Date(Data), y = value, group = Classificacao, color = Classificacao)) +
+  p <- df %>%
+    ggplot(aes(x = as.Date(Data), y = value, group = Classification, color = Classification)) +
     geom_line() + 
     geom_point(alpha = 0.5, size = 0.75) +
     scale_x_date(date_labels = "%Y", date_breaks = "2 years", date_minor_breaks = "1 years") +
     theme(axis.text.x = element_text(angle=90),
           legend.position = "bottom") +
-    labs(x = "", y = "Quantidade de Desenvolvedores",
-         title = "Classificação do desenvolvedor pelo tempo")
+    labs(x = "", y = "Number of Developers",
+         title = "Developer's classification by time")
     # facet_wrap(~EhAutor, scales = "free_y", ncol = 1)
   
   print(p)

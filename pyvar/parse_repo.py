@@ -115,13 +115,15 @@ def parse_repo(projeto = "Cherokee"):
 
                             dict_writer.writerows(buffer)
                             
+                            input_file = input_file.split(id_commit + '/')[1]
+
                             #################################################################################
                             ############## Arquivos
                             #################################################################################
-                            if file_name in data[projeto]["Arquivos"]:
-                                data[projeto]["Arquivos"][file_name] = update_arquivo(data[projeto]["Arquivos"][file_name], id_commit, author_name, file_name, date, var_list)
+                            if input_file in data[projeto]["Arquivos"]:
+                                data[projeto]["Arquivos"][input_file] = update_arquivo(data[projeto]["Arquivos"][input_file], id_commit, author_name, input_file, date, var_list)
                             else:
-                                data[projeto]["Arquivos"][file_name] = create_arquivo(id_commit, author_name, file_name, date, var_list)
+                                data[projeto]["Arquivos"][input_file] = create_arquivo(id_commit, author_name, input_file, date, var_list)
 
 
                     for root, dirs, files in os.walk(input_path):
@@ -135,14 +137,16 @@ def parse_repo(projeto = "Cherokee"):
                 
                             preprocessor = Preprocessor()
                             var_list = preprocessor.parse(input_file)
+
+                            input_file = input_file.split(id_commit + '/')[1]
 
                             #################################################################################
                             ############## Autores
                             #################################################################################
                             if author_name in data[projeto]["Autores"]:
-                                data[projeto]["Autores"][author_name] = update_author(data[projeto]["Autores"][author_name], id_commit, author_name, file_name, date, var_list)
+                                data[projeto]["Autores"][author_name] = update_author(data[projeto]["Autores"][author_name], id_commit, author_name, input_file, date, var_list)
                             else:
-                                data[projeto]["Autores"][author_name] = create_author(id_commit, author_name, file_name, date, var_list)
+                                data[projeto]["Autores"][author_name] = create_author(id_commit, author_name, input_file, date, var_list)
 
 
                     for root, dirs, files in os.walk(input_path):
@@ -157,13 +161,15 @@ def parse_repo(projeto = "Cherokee"):
                             preprocessor = Preprocessor()
                             var_list = preprocessor.parse(input_file)
 
+                            input_file = input_file.split(id_commit + '/')[1]
+
                             #################################################################################
                             ############## Commits
                             #################################################################################
                             if id_commit in data[projeto]["Commits"]:
-                                data[projeto]["Commits"][id_commit] = update_commit(data[projeto]["Commits"][id_commit], id_commit, author_name, file_name, date, var_list)
+                                data[projeto]["Commits"][id_commit] = update_commit(data[projeto]["Commits"][id_commit], id_commit, author_name, input_file, date, var_list)
                             else:
-                                data[projeto]["Commits"][id_commit] = create_commit(id_commit, author_name, file_name, date, var_list)
+                                data[projeto]["Commits"][id_commit] = create_commit(id_commit, author_name, input_file, date, var_list)
 
 
                     for root, dirs, files in os.walk(input_path):
@@ -177,15 +183,17 @@ def parse_repo(projeto = "Cherokee"):
                 
                             preprocessor = Preprocessor()
                             var_list = preprocessor.parse(input_file)
+
+                            input_file = input_file.split(id_commit + '/')[1]
 
                             #################################################################################
                             ############## Variabilidades
                             #################################################################################
                             for var in var_list:
                                 if var in data[projeto]["Variabilidades"]:
-                                    data[projeto]["Variabilidades"][var] = update_variability(data[projeto]["Variabilidades"][var], id_commit, author_name, file_name, date, var)
+                                    data[projeto]["Variabilidades"][var] = update_variability(data[projeto]["Variabilidades"][var], id_commit, author_name, input_file, date, var)
                                 else:
-                                    data[projeto]["Variabilidades"][var] = create_variability(id_commit, author_name, file_name, date, var)
+                                    data[projeto]["Variabilidades"][var] = create_variability(id_commit, author_name, input_file, date, var)
 
                 bar.update(i)
 
